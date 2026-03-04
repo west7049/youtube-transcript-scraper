@@ -1,5 +1,6 @@
 geckodriver.log
 captions/*.txt
 env
+.venv
 .vscode
 captions.log

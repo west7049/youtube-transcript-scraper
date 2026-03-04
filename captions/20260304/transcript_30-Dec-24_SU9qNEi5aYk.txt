@@ -1,0 +1,2052 @@
+[
+    {
+        "duration": 4.92,
+        "start": 0.12,
+        "text": "the most profitable remote jobs are"
+    },
+    {
+        "duration": 3.959,
+        "start": 2.8,
+        "text": "often the most boring ones and you might"
+    },
+    {
+        "duration": 3.2,
+        "start": 5.04,
+        "text": "not want to hear it but it's the truth"
+    },
+    {
+        "duration": 3.481,
+        "start": 6.759,
+        "text": "and many of these jobs are pretty much"
+    },
+    {
+        "duration": 4.12,
+        "start": 8.24,
+        "text": "always hiring because most people don't"
+    },
+    {
+        "duration": 4.0,
+        "start": 10.24,
+        "text": "even know they exist so let me show you"
+    },
+    {
+        "duration": 3.8,
+        "start": 12.36,
+        "text": "nine remote jobs that might put you to"
+    },
+    {
+        "duration": 3.72,
+        "start": 14.24,
+        "text": "sleep but will definitely wake up your"
+    },
+    {
+        "duration": 3.84,
+        "start": 16.16,
+        "text": "bank account and the best part these"
+    },
+    {
+        "duration": 3.92,
+        "start": 17.96,
+        "text": "positions literally can't hire people"
+    },
+    {
+        "duration": 3.4,
+        "start": 20.0,
+        "text": "fast enough so let's dive in before"
+    },
+    {
+        "duration": 4.159,
+        "start": 21.88,
+        "text": "someone else takes your spot first on"
+    },
+    {
+        "duration": 4.799,
+        "start": 23.4,
+        "text": "the list is going to be a funeral sales"
+    },
+    {
+        "duration": 3.961,
+        "start": 26.039,
+        "text": "specialist and listen I know what you're"
+    },
+    {
+        "duration": 3.721,
+        "start": 28.199,
+        "text": "thinking it sounds very boring and ALS"
+    },
+    {
+        "duration": 4.16,
+        "start": 30.0,
+        "text": "Al pretty morbid but the truth is"
+    },
+    {
+        "duration": 4.959,
+        "start": 31.92,
+        "text": "somebody's got to do it and this job is"
+    },
+    {
+        "duration": 4.76,
+        "start": 34.16,
+        "text": "literally Recession Proof why because"
+    },
+    {
+        "duration": 3.401,
+        "start": 36.879,
+        "text": "well people are always going to be dying"
+    },
+    {
+        "duration": 2.44,
+        "start": 38.92,
+        "text": "right just like they say death and taxes"
+    },
+    {
+        "duration": 2.64,
+        "start": 40.28,
+        "text": "are the only two things that you'll"
+    },
+    {
+        "duration": 3.16,
+        "start": 41.36,
+        "text": "never be able to avoid and in terms of"
+    },
+    {
+        "duration": 3.319,
+        "start": 42.92,
+        "text": "what you'll be doing on a day-to-day"
+    },
+    {
+        "duration": 4.08,
+        "start": 44.52,
+        "text": "basis in this job you'll be selling"
+    },
+    {
+        "duration": 3.84,
+        "start": 46.239,
+        "text": "funeral packages and services remotely"
+    },
+    {
+        "duration": 3.0,
+        "start": 48.6,
+        "text": "and a quick explanation of this job is"
+    },
+    {
+        "duration": 3.361,
+        "start": 50.079,
+        "text": "you'll basically be selling funeral"
+    },
+    {
+        "duration": 3.0,
+        "start": 51.6,
+        "text": "packages and services remotely and"
+    },
+    {
+        "duration": 3.2,
+        "start": 53.44,
+        "text": "typically you will be selling these"
+    },
+    {
+        "duration": 3.439,
+        "start": 54.6,
+        "text": "products and services to a funeral home"
+    },
+    {
+        "duration": 3.36,
+        "start": 56.64,
+        "text": "but you also might be helping families"
+    },
+    {
+        "duration": 3.561,
+        "start": 58.039,
+        "text": "pre-plan arrangements and manage cost"
+    },
+    {
+        "duration": 3.16,
+        "start": 60.0,
+        "text": "cost and the best thing is you can do"
+    },
+    {
+        "duration": 2.839,
+        "start": 61.6,
+        "text": "all of it from the comfort of your home"
+    },
+    {
+        "duration": 3.52,
+        "start": 63.16,
+        "text": "and you can think of it like being a"
+    },
+    {
+        "duration": 4.04,
+        "start": 64.439,
+        "text": "wedding planner but okay no it's it's"
+    },
+    {
+        "duration": 3.6,
+        "start": 66.68,
+        "text": "not like being a wedding planner it's a"
+    },
+    {
+        "duration": 4.601,
+        "start": 68.479,
+        "text": "totally different type of ceremony now"
+    },
+    {
+        "duration": 5.8,
+        "start": 70.28,
+        "text": "base pay here starts at 54,000 and"
+    },
+    {
+        "duration": 5.28,
+        "start": 73.08,
+        "text": "commissions put it up to $86,000 a year"
+    },
+    {
+        "duration": 4.12,
+        "start": 76.08,
+        "text": "annually and typically there's not a lot"
+    },
+    {
+        "duration": 4.32,
+        "start": 78.36,
+        "text": "of people who want to be in this"
+    },
+    {
+        "duration": 4.08,
+        "start": 80.2,
+        "text": "position for obvious reasons it's just a"
+    },
+    {
+        "duration": 3.24,
+        "start": 82.68,
+        "text": "very uncomfortable industry in general"
+    },
+    {
+        "duration": 3.24,
+        "start": 84.28,
+        "text": "to be in although it is a very important"
+    },
+    {
+        "duration": 3.4,
+        "start": 85.92,
+        "text": "industry and so there's not a lot of"
+    },
+    {
+        "duration": 3.639,
+        "start": 87.52,
+        "text": "competition to get into these jobs and"
+    },
+    {
+        "duration": 3.88,
+        "start": 89.32,
+        "text": "in many cases you don't need a college"
+    },
+    {
+        "duration": 3.521,
+        "start": 91.159,
+        "text": "degree or previous experience you just"
+    },
+    {
+        "duration": 2.8,
+        "start": 93.2,
+        "text": "need to be willing to work in the"
+    },
+    {
+        "duration": 3.399,
+        "start": 94.68,
+        "text": "industry and you can make pretty good"
+    },
+    {
+        "duration": 3.92,
+        "start": 96.0,
+        "text": "money right off the bat now I found this"
+    },
+    {
+        "duration": 3.761,
+        "start": 98.079,
+        "text": "fascinating Reddit post from a funeral"
+    },
+    {
+        "duration": 4.879,
+        "start": 99.92,
+        "text": "sales specialist they mentioned making"
+    },
+    {
+        "duration": 4.879,
+        "start": 101.84,
+        "text": "over 120,000 in their first year just by"
+    },
+    {
+        "duration": 3.36,
+        "start": 104.799,
+        "text": "being compassionate and not pushy with"
+    },
+    {
+        "duration": 3.4,
+        "start": 106.719,
+        "text": "families so those numbers that I gave"
+    },
+    {
+        "duration": 3.841,
+        "start": 108.159,
+        "text": "earlier of 50 to 880,000 sometimes you"
+    },
+    {
+        "duration": 3.36,
+        "start": 110.119,
+        "text": "can make a lot more even in your first"
+    },
+    {
+        "duration": 3.719,
+        "start": 112.0,
+        "text": "year now some of the skills needed for"
+    },
+    {
+        "duration": 3.92,
+        "start": 113.479,
+        "text": "this are going to be empathy lots of it"
+    },
+    {
+        "duration": 3.201,
+        "start": 115.719,
+        "text": "you also have to have really tough skin"
+    },
+    {
+        "duration": 3.601,
+        "start": 117.399,
+        "text": "you're going to need to be relatively"
+    },
+    {
+        "duration": 3.76,
+        "start": 118.92,
+        "text": "good at sales but actually it's it's not"
+    },
+    {
+        "duration": 3.24,
+        "start": 121.0,
+        "text": "a very pushy type of sales you know"
+    },
+    {
+        "duration": 3.119,
+        "start": 122.68,
+        "text": "you're not some kind of sketchy used car"
+    },
+    {
+        "duration": 3.239,
+        "start": 124.24,
+        "text": "salesman and you also need to have"
+    },
+    {
+        "duration": 3.68,
+        "start": 125.799,
+        "text": "strong communication skills so the pros"
+    },
+    {
+        "duration": 4.041,
+        "start": 127.479,
+        "text": "of this one are there is high commission"
+    },
+    {
+        "duration": 3.441,
+        "start": 129.479,
+        "text": "potential it's a stable industry and"
+    },
+    {
+        "duration": 3.88,
+        "start": 131.52,
+        "text": "you're going to be in a growing field"
+    },
+    {
+        "duration": 4.36,
+        "start": 132.92,
+        "text": "with aging population the cons are it's"
+    },
+    {
+        "duration": 3.72,
+        "start": 135.4,
+        "text": "emotionally challenging and it can be"
+    },
+    {
+        "duration": 3.28,
+        "start": 137.28,
+        "text": "mentally draining and it requires thick"
+    },
+    {
+        "duration": 3.72,
+        "start": 139.12,
+        "text": "skin but overall I'm going to give this"
+    },
+    {
+        "duration": 4.679,
+        "start": 140.56,
+        "text": "one an opportunity score of 8.5 out of"
+    },
+    {
+        "duration": 4.6,
+        "start": 142.84,
+        "text": "10 why because there's massive demand an"
+    },
+    {
+        "duration": 4.0,
+        "start": 145.239,
+        "text": "aging population and most people won't"
+    },
+    {
+        "duration": 3.56,
+        "start": 147.44,
+        "text": "consider this field so you basically"
+    },
+    {
+        "duration": 3.321,
+        "start": 149.239,
+        "text": "have zero competition now if you're"
+    },
+    {
+        "duration": 3.319,
+        "start": 151.0,
+        "text": "finding value in these unique"
+    },
+    {
+        "duration": 3.2,
+        "start": 152.56,
+        "text": "opportunities gently tap that like"
+    },
+    {
+        "duration": 3.161,
+        "start": 154.319,
+        "text": "button because it really helps more"
+    },
+    {
+        "duration": 4.119,
+        "start": 155.76,
+        "text": "people discover these hidden gemms next"
+    },
+    {
+        "duration": 3.88,
+        "start": 157.48,
+        "text": "is going to be a user manual writer and"
+    },
+    {
+        "duration": 3.44,
+        "start": 159.879,
+        "text": "if you've ever wondered who writes those"
+    },
+    {
+        "duration": 4.12,
+        "start": 161.36,
+        "text": "instruction manuals that nobody actually"
+    },
+    {
+        "duration": 3.361,
+        "start": 163.319,
+        "text": "reads well you're in luck because we're"
+    },
+    {
+        "duration": 2.679,
+        "start": 165.48,
+        "text": "about to talk about it and a quick"
+    },
+    {
+        "duration": 3.6,
+        "start": 166.68,
+        "text": "explanation here is you create"
+    },
+    {
+        "duration": 3.881,
+        "start": 168.159,
+        "text": "documentation for products software and"
+    },
+    {
+        "duration": 3.64,
+        "start": 170.28,
+        "text": "services you break down complex"
+    },
+    {
+        "duration": 3.96,
+        "start": 172.04,
+        "text": "information into simple steps and you do"
+    },
+    {
+        "duration": 3.12,
+        "start": 173.92,
+        "text": "it all while working in your pajamas so"
+    },
+    {
+        "duration": 3.239,
+        "start": 176.0,
+        "text": "you can think of it like being a"
+    },
+    {
+        "duration": 4.32,
+        "start": 177.04,
+        "text": "translator between Tech nerds and normal"
+    },
+    {
+        "duration": 5.0,
+        "start": 179.239,
+        "text": "human beings and the salary here even at"
+    },
+    {
+        "duration": 5.08,
+        "start": 181.36,
+        "text": "entry level is about 47 and can go up to"
+    },
+    {
+        "duration": 3.761,
+        "start": 184.239,
+        "text": "$76,000 a year and the skills needed are"
+    },
+    {
+        "duration": 3.799,
+        "start": 186.44,
+        "text": "going to be clear writing ability"
+    },
+    {
+        "duration": 4.84,
+        "start": 188.0,
+        "text": "attention to detail basic technical"
+    },
+    {
+        "duration": 4.56,
+        "start": 190.239,
+        "text": "knowledge and patience lots of it and an"
+    },
+    {
+        "duration": 4.399,
+        "start": 192.84,
+        "text": "anecdote here is one of my subscribers"
+    },
+    {
+        "duration": 4.16,
+        "start": 194.799,
+        "text": "landed this job with zero experience"
+    },
+    {
+        "duration": 3.64,
+        "start": 197.239,
+        "text": "just by taking a technical writing"
+    },
+    {
+        "duration": 5.2,
+        "start": 198.959,
+        "text": "course and building a portfolio and they"
+    },
+    {
+        "duration": 5.201,
+        "start": 200.879,
+        "text": "now make $65,000 a year working about 25"
+    },
+    {
+        "duration": 4.0,
+        "start": 204.159,
+        "text": "hours a week now some of the pros here"
+    },
+    {
+        "duration": 3.96,
+        "start": 206.08,
+        "text": "are a steady workflow it's quiet"
+    },
+    {
+        "duration": 3.521,
+        "start": 208.159,
+        "text": "independent work and it is an growing"
+    },
+    {
+        "duration": 3.839,
+        "start": 210.04,
+        "text": "field with tech expansion some of the"
+    },
+    {
+        "duration": 4.36,
+        "start": 211.68,
+        "text": "cons are it can be repetitive it does"
+    },
+    {
+        "duration": 3.881,
+        "start": 213.879,
+        "text": "require extreme attention to detail and"
+    },
+    {
+        "duration": 3.199,
+        "start": 216.04,
+        "text": "deadlines can be tight but overall"
+    },
+    {
+        "duration": 4.479,
+        "start": 217.76,
+        "text": "opportunity score I'm going to give it a"
+    },
+    {
+        "duration": 4.72,
+        "start": 219.239,
+        "text": "7.5 out of 10 why well high demand in"
+    },
+    {
+        "duration": 3.401,
+        "start": 222.239,
+        "text": "Tech sector and relatively low"
+    },
+    {
+        "duration": 3.321,
+        "start": 223.959,
+        "text": "competition because let's be honest it's"
+    },
+    {
+        "duration": 3.04,
+        "start": 225.64,
+        "text": "like watching paint dry at least for"
+    },
+    {
+        "duration": 3.28,
+        "start": 227.28,
+        "text": "most people speaking of technical"
+    },
+    {
+        "duration": 3.6,
+        "start": 228.68,
+        "text": "writing if you want to boost your skills"
+    },
+    {
+        "duration": 3.64,
+        "start": 230.56,
+        "text": "corsera is offering their technical"
+    },
+    {
+        "duration": 3.599,
+        "start": 232.28,
+        "text": "writing certificate at a massive"
+    },
+    {
+        "duration": 3.56,
+        "start": 234.2,
+        "text": "discount this week so check the link in"
+    },
+    {
+        "duration": 3.36,
+        "start": 235.879,
+        "text": "the description to save up to 50% off"
+    },
+    {
+        "duration": 3.08,
+        "start": 237.76,
+        "text": "your first month and I'll keep that link"
+    },
+    {
+        "duration": 2.801,
+        "start": 239.239,
+        "text": "up for as as long as I can just click it"
+    },
+    {
+        "duration": 3.0,
+        "start": 240.84,
+        "text": "down in the description and the pin"
+    },
+    {
+        "duration": 4.32,
+        "start": 242.04,
+        "text": "comment below next is going to be a"
+    },
+    {
+        "duration": 4.52,
+        "start": 243.84,
+        "text": "statistics validator and you know those"
+    },
+    {
+        "duration": 4.92,
+        "start": 246.36,
+        "text": "weird stats that you see everywhere like"
+    },
+    {
+        "duration": 4.84,
+        "start": 248.36,
+        "text": "9 out of 10 dentists recommend XYZ well"
+    },
+    {
+        "duration": 3.679,
+        "start": 251.28,
+        "text": "someone has to actually verify those"
+    },
+    {
+        "duration": 3.719,
+        "start": 253.2,
+        "text": "numbers and in order to do this you'll"
+    },
+    {
+        "duration": 4.12,
+        "start": 254.959,
+        "text": "need to analyze data for accuracy and"
+    },
+    {
+        "duration": 3.681,
+        "start": 256.919,
+        "text": "validity check research methodologies"
+    },
+    {
+        "duration": 3.601,
+        "start": 259.079,
+        "text": "and make sure companies aren't making"
+    },
+    {
+        "duration": 3.92,
+        "start": 260.6,
+        "text": "false claims so think of it like being a"
+    },
+    {
+        "duration": 3.56,
+        "start": 262.68,
+        "text": "detective but instead of solving crimes"
+    },
+    {
+        "duration": 4.08,
+        "start": 264.52,
+        "text": "you're solving math problems and the"
+    },
+    {
+        "duration": 4.76,
+        "start": 266.24,
+        "text": "salary here starts at 40,000 and can"
+    },
+    {
+        "duration": 4.319,
+        "start": 268.6,
+        "text": "reach up to 64 4,000 annually plus"
+    },
+    {
+        "duration": 3.4,
+        "start": 271.0,
+        "text": "bonuses for project completion now some"
+    },
+    {
+        "duration": 3.681,
+        "start": 272.919,
+        "text": "skills that you need here are strong"
+    },
+    {
+        "duration": 3.76,
+        "start": 274.4,
+        "text": "analytical skills statistical knowledge"
+    },
+    {
+        "duration": 3.28,
+        "start": 276.6,
+        "text": "attention to detail and some basic"
+    },
+    {
+        "duration": 3.64,
+        "start": 278.16,
+        "text": "programming can be helpful and companies"
+    },
+    {
+        "duration": 4.12,
+        "start": 279.88,
+        "text": "are desperate for these roles because"
+    },
+    {
+        "duration": 4.32,
+        "start": 281.8,
+        "text": "one wrong statistic in an ad campaign"
+    },
+    {
+        "duration": 3.84,
+        "start": 284.0,
+        "text": "could cost them millions in lawsuits so"
+    },
+    {
+        "duration": 4.16,
+        "start": 286.12,
+        "text": "the pros of this one are it's perfect"
+    },
+    {
+        "duration": 3.84,
+        "start": 287.84,
+        "text": "for math nerds there's stable work hours"
+    },
+    {
+        "duration": 3.52,
+        "start": 290.28,
+        "text": "and there's pretty much no client"
+    },
+    {
+        "duration": 4.12,
+        "start": 291.68,
+        "text": "interaction the cons here are it can be"
+    },
+    {
+        "duration": 4.36,
+        "start": 293.8,
+        "text": "monotonous it does require constant"
+    },
+    {
+        "duration": 3.48,
+        "start": 295.8,
+        "text": "focus and there is deadline pressure but"
+    },
+    {
+        "duration": 3.52,
+        "start": 298.16,
+        "text": "overall I'm going to give this one an"
+    },
+    {
+        "duration": 4.08,
+        "start": 299.28,
+        "text": "opportunity score of 8 out of 10 why"
+    },
+    {
+        "duration": 3.44,
+        "start": 301.68,
+        "text": "because there's growing demand due to"
+    },
+    {
+        "duration": 3.8,
+        "start": 303.36,
+        "text": "datadriven marketing and strict"
+    },
+    {
+        "duration": 3.6,
+        "start": 305.12,
+        "text": "advertising laws now by the way drop a"
+    },
+    {
+        "duration": 3.08,
+        "start": 307.16,
+        "text": "comment below with which of these jobs"
+    },
+    {
+        "duration": 2.96,
+        "start": 308.72,
+        "text": "interest you the most I read every"
+    },
+    {
+        "duration": 3.36,
+        "start": 310.24,
+        "text": "comment and I might make a detailed"
+    },
+    {
+        "duration": 3.68,
+        "start": 311.68,
+        "text": "video about the most requested ones next"
+    },
+    {
+        "duration": 3.48,
+        "start": 313.6,
+        "text": "is going to be a WordPress support"
+    },
+    {
+        "duration": 3.32,
+        "start": 315.36,
+        "text": "technition and if you ever wondered who"
+    },
+    {
+        "duration": 3.6,
+        "start": 317.08,
+        "text": "fixes websites when they break at 3:00"
+    },
+    {
+        "duration": 3.88,
+        "start": 318.68,
+        "text": "a.m. this is that position so you'll"
+    },
+    {
+        "duration": 4.239,
+        "start": 320.68,
+        "text": "help people fix their WordPress websites"
+    },
+    {
+        "duration": 4.24,
+        "start": 322.56,
+        "text": "troubleshoot plug-in issues and themes"
+    },
+    {
+        "duration": 3.361,
+        "start": 324.919,
+        "text": "and basically be like a website doctor"
+    },
+    {
+        "duration": 2.88,
+        "start": 326.8,
+        "text": "and you can think of it being like an IT"
+    },
+    {
+        "duration": 3.68,
+        "start": 328.28,
+        "text": "superhero saving small business"
+    },
+    {
+        "duration": 3.959,
+        "start": 329.68,
+        "text": "businesses one crashed website at a time"
+    },
+    {
+        "duration": 4.16,
+        "start": 331.96,
+        "text": "and the salary here at the entry level"
+    },
+    {
+        "duration": 4.881,
+        "start": 333.639,
+        "text": "starts off at 42,000 and it can reach"
+    },
+    {
+        "duration": 4.199,
+        "start": 336.12,
+        "text": "$63,000 a year with experience now the"
+    },
+    {
+        "duration": 5.16,
+        "start": 338.52,
+        "text": "skills needed here are going to be"
+    },
+    {
+        "duration": 5.44,
+        "start": 340.319,
+        "text": "WordPress knowledge basic HTML and CSS"
+    },
+    {
+        "duration": 4.239,
+        "start": 343.68,
+        "text": "problem solving skills and customer"
+    },
+    {
+        "duration": 4.0,
+        "start": 345.759,
+        "text": "service mindset and the pros are it's"
+    },
+    {
+        "duration": 4.041,
+        "start": 347.919,
+        "text": "always in demand it can lead to business"
+    },
+    {
+        "duration": 4.601,
+        "start": 349.759,
+        "text": "ownership there's flexible hours and the"
+    },
+    {
+        "duration": 4.2,
+        "start": 351.96,
+        "text": "cons are it can require odd hours in"
+    },
+    {
+        "duration": 3.399,
+        "start": 354.36,
+        "text": "some situations you do need to stay"
+    },
+    {
+        "duration": 3.479,
+        "start": 356.16,
+        "text": "updated with changes and it can be"
+    },
+    {
+        "duration": 3.0,
+        "start": 357.759,
+        "text": "stressful during emergencies so over"
+    },
+    {
+        "duration": 4.0,
+        "start": 359.639,
+        "text": "overall I'm going to give this one an"
+    },
+    {
+        "duration": 5.361,
+        "start": 360.759,
+        "text": "opportunity score of 9 out of 10 why"
+    },
+    {
+        "duration": 4.241,
+        "start": 363.639,
+        "text": "well WordPress Powers 43% of all"
+    },
+    {
+        "duration": 3.079,
+        "start": 366.12,
+        "text": "websites and that number keeps growing"
+    },
+    {
+        "duration": 3.4,
+        "start": 367.88,
+        "text": "and if you know someone who's good with"
+    },
+    {
+        "duration": 3.961,
+        "start": 369.199,
+        "text": "numbers or doesn't mind working a boring"
+    },
+    {
+        "duration": 3.359,
+        "start": 371.28,
+        "text": "job go ahead and share this video with"
+    },
+    {
+        "duration": 2.64,
+        "start": 373.16,
+        "text": "them they might thank you later now by"
+    },
+    {
+        "duration": 3.28,
+        "start": 374.639,
+        "text": "the way I've seen a lot of people"
+    },
+    {
+        "duration": 4.08,
+        "start": 375.8,
+        "text": "requesting videos and commenting on all"
+    },
+    {
+        "duration": 3.481,
+        "start": 377.919,
+        "text": "of the work from home job scams that are"
+    },
+    {
+        "duration": 3.719,
+        "start": 379.88,
+        "text": "out there and so I actually put together"
+    },
+    {
+        "duration": 4.32,
+        "start": 381.4,
+        "text": "a complete guide on remote work red"
+    },
+    {
+        "duration": 3.561,
+        "start": 383.599,
+        "text": "flags how to spot and avoid work from"
+    },
+    {
+        "duration": 2.72,
+        "start": 385.72,
+        "text": "home scams and you can grab it"
+    },
+    {
+        "duration": 2.24,
+        "start": 387.16,
+        "text": "completely free by clicking the link in"
+    },
+    {
+        "duration": 2.479,
+        "start": 388.44,
+        "text": "the description and the pin comment"
+    },
+    {
+        "duration": 3.359,
+        "start": 389.4,
+        "text": "below next is going to be a"
+    },
+    {
+        "duration": 3.601,
+        "start": 390.919,
+        "text": "documentation writer and this is"
+    },
+    {
+        "duration": 3.88,
+        "start": 392.759,
+        "text": "different from manual writers these"
+    },
+    {
+        "duration": 3.88,
+        "start": 394.52,
+        "text": "folks document internal processes for"
+    },
+    {
+        "duration": 3.481,
+        "start": 396.639,
+        "text": "big companies and basically you create"
+    },
+    {
+        "duration": 3.72,
+        "start": 398.4,
+        "text": "Internal Documentation for companies you"
+    },
+    {
+        "duration": 3.919,
+        "start": 400.12,
+        "text": "write process guides and Sops and you"
+    },
+    {
+        "duration": 3.44,
+        "start": 402.12,
+        "text": "basically turn chaos into order and you"
+    },
+    {
+        "duration": 3.521,
+        "start": 404.039,
+        "text": "can think of it like being a corporate"
+    },
+    {
+        "duration": 4.079,
+        "start": 405.56,
+        "text": "Marie condo but instead of organizing"
+    },
+    {
+        "duration": 4.16,
+        "start": 407.56,
+        "text": "closets you organize information now you"
+    },
+    {
+        "duration": 3.161,
+        "start": 409.639,
+        "text": "start here at about 69,000 you can get"
+    },
+    {
+        "duration": 4.039,
+        "start": 411.72,
+        "text": "up to about"
+    },
+    {
+        "duration": 3.88,
+        "start": 412.8,
+        "text": "$125,000 a year so it pays really well"
+    },
+    {
+        "duration": 2.641,
+        "start": 415.759,
+        "text": "so if you're the type of person who"
+    },
+    {
+        "duration": 3.4,
+        "start": 416.68,
+        "text": "loves organizing things this could be"
+    },
+    {
+        "duration": 3.919,
+        "start": 418.4,
+        "text": "great for you and the skills need here"
+    },
+    {
+        "duration": 4.519,
+        "start": 420.08,
+        "text": "are clear writing ability organization"
+    },
+    {
+        "duration": 4.041,
+        "start": 422.319,
+        "text": "skills interview skills and process"
+    },
+    {
+        "duration": 3.401,
+        "start": 424.599,
+        "text": "mapping now a former pharmacy technician"
+    },
+    {
+        "duration": 3.92,
+        "start": 426.36,
+        "text": "I knew switched to this career during"
+    },
+    {
+        "duration": 4.24,
+        "start": 428.0,
+        "text": "covid-19 and now makes double her"
+    },
+    {
+        "duration": 3.56,
+        "start": 430.28,
+        "text": "previous salary working from home so"
+    },
+    {
+        "duration": 3.48,
+        "start": 432.24,
+        "text": "this is legit now the pros here are it's"
+    },
+    {
+        "duration": 3.84,
+        "start": 433.84,
+        "text": "high paying there's regular hours it's a"
+    },
+    {
+        "duration": 3.72,
+        "start": 435.72,
+        "text": "growing field the cons are it can be"
+    },
+    {
+        "duration": 3.359,
+        "start": 437.68,
+        "text": "repetitive there's lots of meetings and"
+    },
+    {
+        "duration": 3.72,
+        "start": 439.44,
+        "text": "there's multiple revisions and I'm going"
+    },
+    {
+        "duration": 3.88,
+        "start": 441.039,
+        "text": "to go ahead and give this one an 8.5 out"
+    },
+    {
+        "duration": 3.159,
+        "start": 443.16,
+        "text": "of 10 opportunity score because it's a"
+    },
+    {
+        "duration": 2.881,
+        "start": 444.919,
+        "text": "little bit harder to get into than some"
+    },
+    {
+        "duration": 3.201,
+        "start": 446.319,
+        "text": "of the other ones on the list but it"
+    },
+    {
+        "duration": 4.16,
+        "start": 447.8,
+        "text": "also pays better too next is going to be"
+    },
+    {
+        "duration": 4.079,
+        "start": 449.52,
+        "text": "to be a database administrator and you"
+    },
+    {
+        "duration": 3.519,
+        "start": 451.96,
+        "text": "know how everyone's talking about data"
+    },
+    {
+        "duration": 3.961,
+        "start": 453.599,
+        "text": "being the new oil right well someone"
+    },
+    {
+        "duration": 3.601,
+        "start": 455.479,
+        "text": "needs to manage all that oil and in this"
+    },
+    {
+        "duration": 3.72,
+        "start": 457.56,
+        "text": "position you maintain and protect"
+    },
+    {
+        "duration": 4.32,
+        "start": 459.08,
+        "text": "company databases you ensure data is"
+    },
+    {
+        "duration": 3.919,
+        "start": 461.28,
+        "text": "secure and accessible and you basically"
+    },
+    {
+        "duration": 3.28,
+        "start": 463.4,
+        "text": "are just a data Guardian so you can"
+    },
+    {
+        "duration": 3.12,
+        "start": 465.199,
+        "text": "think of it like being a bank vault"
+    },
+    {
+        "duration": 3.68,
+        "start": 466.68,
+        "text": "manager but instead of cash you're"
+    },
+    {
+        "duration": 4.0,
+        "start": 468.319,
+        "text": "protecting valuable information an entry"
+    },
+    {
+        "duration": 3.36,
+        "start": 470.36,
+        "text": "level position start at about $70,000"
+    },
+    {
+        "duration": 4.0,
+        "start": 472.319,
+        "text": "and you can reach up to"
+    },
+    {
+        "duration": 4.439,
+        "start": 473.72,
+        "text": "$121,000 a year with experience oh and"
+    },
+    {
+        "duration": 3.44,
+        "start": 476.319,
+        "text": "there's a lot of super high-paying jobs"
+    },
+    {
+        "duration": 3.241,
+        "start": 478.159,
+        "text": "you can go into down the line that pay"
+    },
+    {
+        "duration": 3.921,
+        "start": 479.759,
+        "text": "even more now some skills that you need"
+    },
+    {
+        "duration": 4.639,
+        "start": 481.4,
+        "text": "here are database management SQL"
+    },
+    {
+        "duration": 4.4,
+        "start": 483.68,
+        "text": "knowledge security awareness and problem"
+    },
+    {
+        "duration": 4.041,
+        "start": 486.039,
+        "text": "solving skills and companies are so"
+    },
+    {
+        "duration": 3.36,
+        "start": 488.08,
+        "text": "desperate for dbas that one of my"
+    },
+    {
+        "duration": 4.0,
+        "start": 490.08,
+        "text": "viewers got hired with just a"
+    },
+    {
+        "duration": 4.28,
+        "start": 491.44,
+        "text": "certification and basic experience and"
+    },
+    {
+        "duration": 3.04,
+        "start": 494.08,
+        "text": "they now make six figures working"
+    },
+    {
+        "duration": 2.759,
+        "start": 495.72,
+        "text": "remotely check out the Google data"
+    },
+    {
+        "duration": 2.44,
+        "start": 497.12,
+        "text": "analytics professional certificate if"
+    },
+    {
+        "duration": 2.921,
+        "start": 498.479,
+        "text": "you want to get started with something"
+    },
+    {
+        "duration": 3.079,
+        "start": 499.56,
+        "text": "like that that's what the viewer used"
+    },
+    {
+        "duration": 2.88,
+        "start": 501.4,
+        "text": "I'll put it down in the description and"
+    },
+    {
+        "duration": 4.28,
+        "start": 502.639,
+        "text": "the pin comment below now the pros here"
+    },
+    {
+        "duration": 5.4,
+        "start": 504.28,
+        "text": "are high salary potential job security"
+    },
+    {
+        "duration": 5.12,
+        "start": 506.919,
+        "text": "and regular hours the cons are on call"
+    },
+    {
+        "duration": 3.88,
+        "start": 509.68,
+        "text": "ations High responsibility and constant"
+    },
+    {
+        "duration": 2.961,
+        "start": 512.039,
+        "text": "learning is required now I'm going to"
+    },
+    {
+        "duration": 4.12,
+        "start": 513.56,
+        "text": "give this one an opportunity score of"
+    },
+    {
+        "duration": 4.44,
+        "start": 515.0,
+        "text": "9.5 out of 10 because I've actually seen"
+    },
+    {
+        "duration": 4.039,
+        "start": 517.68,
+        "text": "people land this job with very little"
+    },
+    {
+        "duration": 4.039,
+        "start": 519.44,
+        "text": "experience it's also a critical role"
+    },
+    {
+        "duration": 3.321,
+        "start": 521.719,
+        "text": "there's High pay and there's growing"
+    },
+    {
+        "duration": 3.601,
+        "start": 523.479,
+        "text": "demand and by the way don't miss out on"
+    },
+    {
+        "duration": 3.2,
+        "start": 525.04,
+        "text": "more hidden job opportunities like this"
+    },
+    {
+        "duration": 3.12,
+        "start": 527.08,
+        "text": "hit that subscribe buttton and"
+    },
+    {
+        "duration": 3.599,
+        "start": 528.24,
+        "text": "notification Bell to stay updated now by"
+    },
+    {
+        "duration": 3.4,
+        "start": 530.2,
+        "text": "the way last year young people were"
+    },
+    {
+        "duration": 3.481,
+        "start": 531.839,
+        "text": "surveyed and they said that the number"
+    },
+    {
+        "duration": 3.679,
+        "start": 533.6,
+        "text": "one career that they want to go into is"
+    },
+    {
+        "duration": 3.44,
+        "start": 535.32,
+        "text": "becoming a YouTuber and I would have to"
+    },
+    {
+        "duration": 3.0,
+        "start": 537.279,
+        "text": "agree it's pretty awesome so if you want"
+    },
+    {
+        "duration": 3.48,
+        "start": 538.76,
+        "text": "to know how to become a YouTuber I made"
+    },
+    {
+        "duration": 3.921,
+        "start": 540.279,
+        "text": "a completely free guide called from Zero"
+    },
+    {
+        "duration": 3.4,
+        "start": 542.24,
+        "text": "to Hero the low tech guide to YouTube"
+    },
+    {
+        "duration": 2.639,
+        "start": 544.2,
+        "text": "success and you can check that out in"
+    },
+    {
+        "duration": 3.4,
+        "start": 545.64,
+        "text": "the description and the pin comment"
+    },
+    {
+        "duration": 3.881,
+        "start": 546.839,
+        "text": "below all right next is Actuarial"
+    },
+    {
+        "duration": 3.4,
+        "start": 549.04,
+        "text": "analyst and if you ever wondered who"
+    },
+    {
+        "duration": 3.76,
+        "start": 550.72,
+        "text": "calculates the odds of bad things"
+    },
+    {
+        "duration": 4.12,
+        "start": 552.44,
+        "text": "happening well this is that person and"
+    },
+    {
+        "duration": 4.2,
+        "start": 554.48,
+        "text": "in this position you'll analyze risk and"
+    },
+    {
+        "duration": 3.88,
+        "start": 556.56,
+        "text": "probability for insurance companies and"
+    },
+    {
+        "duration": 3.48,
+        "start": 558.68,
+        "text": "you'll also create Financial models and"
+    },
+    {
+        "duration": 3.12,
+        "start": 560.44,
+        "text": "basically be a fortune teller with a"
+    },
+    {
+        "duration": 3.359,
+        "start": 562.16,
+        "text": "calculator and you can think of it like"
+    },
+    {
+        "duration": 3.44,
+        "start": 563.56,
+        "text": "being a weather forecaster but instead"
+    },
+    {
+        "duration": 3.601,
+        "start": 565.519,
+        "text": "of predicting rain you're going to"
+    },
+    {
+        "duration": 4.079,
+        "start": 567.0,
+        "text": "predict Financial storms so it's kind of"
+    },
+    {
+        "duration": 4.36,
+        "start": 569.12,
+        "text": "like a much more boring version of The"
+    },
+    {
+        "duration": 5.361,
+        "start": 571.079,
+        "text": "Big Short and the salary starts at"
+    },
+    {
+        "duration": 5.44,
+        "start": 573.48,
+        "text": "$95,000 a year and can reach up to"
+    },
+    {
+        "duration": 4.839,
+        "start": 576.44,
+        "text": "152,000 plus bonuses based on"
+    },
+    {
+        "duration": 3.72,
+        "start": 578.92,
+        "text": "certifications so the pay is really"
+    },
+    {
+        "duration": 3.441,
+        "start": 581.279,
+        "text": "really good and according to"
+    },
+    {
+        "duration": 3.92,
+        "start": 582.64,
+        "text": "Investopedia actuaries spend most of"
+    },
+    {
+        "duration": 3.52,
+        "start": 584.72,
+        "text": "their day building Financial models and"
+    },
+    {
+        "duration": 3.36,
+        "start": 586.56,
+        "text": "spreadsheets making them one of the few"
+    },
+    {
+        "duration": 3.4,
+        "start": 588.24,
+        "text": "people in the world who actually use"
+    },
+    {
+        "duration": 3.479,
+        "start": 589.92,
+        "text": "what they learned in math class so the"
+    },
+    {
+        "duration": 4.0,
+        "start": 591.64,
+        "text": "skills you need here are of course"
+    },
+    {
+        "duration": 5.44,
+        "start": 593.399,
+        "text": "strong mathematical ability statistical"
+    },
+    {
+        "duration": 5.56,
+        "start": 595.64,
+        "text": "analysis Excel Mastery and very strong"
+    },
+    {
+        "duration": 4.601,
+        "start": 598.839,
+        "text": "problem Sol in skills the pros here are"
+    },
+    {
+        "duration": 3.84,
+        "start": 601.2,
+        "text": "high salary potential a stable career"
+    },
+    {
+        "duration": 3.76,
+        "start": 603.44,
+        "text": "path and you get to work in a respected"
+    },
+    {
+        "duration": 3.96,
+        "start": 605.04,
+        "text": "profession now the cons are it is a"
+    },
+    {
+        "duration": 3.84,
+        "start": 607.2,
+        "text": "difficult certification process it can"
+    },
+    {
+        "duration": 3.92,
+        "start": 609.0,
+        "text": "be repetitive and there's a heavy mental"
+    },
+    {
+        "duration": 3.919,
+        "start": 611.04,
+        "text": "workload and the opportunity score I'm"
+    },
+    {
+        "duration": 4.0,
+        "start": 612.92,
+        "text": "going to give it a 9 out of 10 why high"
+    },
+    {
+        "duration": 4.281,
+        "start": 614.959,
+        "text": "demand High pay and low competition due"
+    },
+    {
+        "duration": 4.4,
+        "start": 616.92,
+        "text": "to math requirements next is a lead"
+    },
+    {
+        "duration": 4.36,
+        "start": 619.24,
+        "text": "management coordinator and you know all"
+    },
+    {
+        "duration": 4.04,
+        "start": 621.32,
+        "text": "those sales leads companies get well"
+    },
+    {
+        "duration": 3.72,
+        "start": 623.6,
+        "text": "someone has to make sure that they don't"
+    },
+    {
+        "duration": 3.68,
+        "start": 625.36,
+        "text": "get lost and that's exactly what you'll"
+    },
+    {
+        "duration": 4.04,
+        "start": 627.32,
+        "text": "be doing in this position you'll track"
+    },
+    {
+        "duration": 4.479,
+        "start": 629.04,
+        "text": "and manage incoming sales leads you'll"
+    },
+    {
+        "duration": 4.2,
+        "start": 631.36,
+        "text": "ensure proper followup and basically be"
+    },
+    {
+        "duration": 3.641,
+        "start": 633.519,
+        "text": "a traffic controller for potential"
+    },
+    {
+        "duration": 3.68,
+        "start": 635.56,
+        "text": "customers now the base pay starts at"
+    },
+    {
+        "duration": 4.44,
+        "start": 637.16,
+        "text": "about 54,000 and you can reach up to"
+    },
+    {
+        "duration": 4.279,
+        "start": 639.24,
+        "text": "83,000 with experience plus commission"
+    },
+    {
+        "duration": 3.4,
+        "start": 641.6,
+        "text": "opportunities and again it's one that's"
+    },
+    {
+        "duration": 2.76,
+        "start": 643.519,
+        "text": "relatively easy to get into you"
+    },
+    {
+        "duration": 3.0,
+        "start": 645.0,
+        "text": "basically don't have to have any"
+    },
+    {
+        "duration": 3.641,
+        "start": 646.279,
+        "text": "experience or if you do have to have"
+    },
+    {
+        "duration": 3.6,
+        "start": 648.0,
+        "text": "experience you can very easily generate"
+    },
+    {
+        "duration": 3.919,
+        "start": 649.92,
+        "text": "it in you know just like I talk about in"
+    },
+    {
+        "duration": 3.96,
+        "start": 651.6,
+        "text": "other videos by freelancing or doing"
+    },
+    {
+        "duration": 3.521,
+        "start": 653.839,
+        "text": "some free gigs on the side now some"
+    },
+    {
+        "duration": 4.12,
+        "start": 655.56,
+        "text": "skills needed here are organization"
+    },
+    {
+        "duration": 4.56,
+        "start": 657.36,
+        "text": "skills CRM experience commun ation"
+    },
+    {
+        "duration": 4.159,
+        "start": 659.68,
+        "text": "abilities and basic sales knowledge and"
+    },
+    {
+        "duration": 3.44,
+        "start": 661.92,
+        "text": "the pros here are it's a growing field"
+    },
+    {
+        "duration": 3.361,
+        "start": 663.839,
+        "text": "it's remote work friendly there's a"
+    },
+    {
+        "duration": 3.479,
+        "start": 665.36,
+        "text": "clear career path and the cons are that"
+    },
+    {
+        "duration": 3.879,
+        "start": 667.2,
+        "text": "it can be stressful it does require"
+    },
+    {
+        "duration": 4.401,
+        "start": 668.839,
+        "text": "multitasking and there is sales pressure"
+    },
+    {
+        "duration": 4.481,
+        "start": 671.079,
+        "text": "and the opportunity score is 7.5 out of"
+    },
+    {
+        "duration": 4.76,
+        "start": 673.24,
+        "text": "10 why high demand but moderate"
+    },
+    {
+        "duration": 5.079,
+        "start": 675.56,
+        "text": "competition next is going to be a data"
+    },
+    {
+        "duration": 4.959,
+        "start": 678.0,
+        "text": "taxonomy specialist yes this is a job"
+    },
+    {
+        "duration": 4.361,
+        "start": 680.639,
+        "text": "title that makes everyone say what the"
+    },
+    {
+        "duration": 4.12,
+        "start": 682.959,
+        "text": "heck is that and basically in this"
+    },
+    {
+        "duration": 4.079,
+        "start": 685.0,
+        "text": "position you organize and classify data"
+    },
+    {
+        "duration": 4.081,
+        "start": 687.079,
+        "text": "for large companies you create systems"
+    },
+    {
+        "duration": 3.88,
+        "start": 689.079,
+        "text": "for categorizing information and you're"
+    },
+    {
+        "duration": 3.679,
+        "start": 691.16,
+        "text": "basically like a librarian for the"
+    },
+    {
+        "duration": 4.761,
+        "start": 692.959,
+        "text": "digital age now entry level starts"
+    },
+    {
+        "duration": 5.281,
+        "start": 694.839,
+        "text": "around 77,000 and you can reach up to"
+    },
+    {
+        "duration": 4.559,
+        "start": 697.72,
+        "text": "$139,000 a year with experience and this"
+    },
+    {
+        "duration": 3.88,
+        "start": 700.12,
+        "text": "is one of the dozens of different datar"
+    },
+    {
+        "duration": 3.881,
+        "start": 702.279,
+        "text": "related jobs out there that are"
+    },
+    {
+        "duration": 3.88,
+        "start": 704.0,
+        "text": "relatively easy to get into and you can"
+    },
+    {
+        "duration": 3.799,
+        "start": 706.16,
+        "text": "make really big money now one"
+    },
+    {
+        "duration": 3.92,
+        "start": 707.88,
+        "text": "19-year-old on Reddit landed this job"
+    },
+    {
+        "duration": 4.0,
+        "start": 709.959,
+        "text": "with no degree just by showing"
+    },
+    {
+        "duration": 3.76,
+        "start": 711.8,
+        "text": "initiative and Technical aptitude and"
+    },
+    {
+        "duration": 4.12,
+        "start": 713.959,
+        "text": "they now make six figures just"
+    },
+    {
+        "duration": 4.48,
+        "start": 715.56,
+        "text": "organizing data so you absolutely can"
+    },
+    {
+        "duration": 3.56,
+        "start": 718.079,
+        "text": "land these types of job jobs without"
+    },
+    {
+        "duration": 3.52,
+        "start": 720.04,
+        "text": "having a college degree or previous"
+    },
+    {
+        "duration": 4.2,
+        "start": 721.639,
+        "text": "experience and the skills needed are"
+    },
+    {
+        "duration": 4.24,
+        "start": 723.56,
+        "text": "organization skills attention to detail"
+    },
+    {
+        "duration": 3.921,
+        "start": 725.839,
+        "text": "database knowledge and analytical"
+    },
+    {
+        "duration": 3.8,
+        "start": 727.8,
+        "text": "thinking and the pros here are it does"
+    },
+    {
+        "duration": 4.0,
+        "start": 729.76,
+        "text": "have a super high salary potential not"
+    },
+    {
+        "duration": 4.0,
+        "start": 731.6,
+        "text": "only in the role itself but also other"
+    },
+    {
+        "duration": 3.6,
+        "start": 733.76,
+        "text": "roles that you can go into later on it's"
+    },
+    {
+        "duration": 4.12,
+        "start": 735.6,
+        "text": "also a growing field and there's"
+    },
+    {
+        "duration": 4.279,
+        "start": 737.36,
+        "text": "relatively low stress the cons are it"
+    },
+    {
+        "duration": 3.64,
+        "start": 739.72,
+        "text": "can be monotonous it does require"
+    },
+    {
+        "duration": 3.56,
+        "start": 741.639,
+        "text": "constant learning and there's limited"
+    },
+    {
+        "duration": 3.64,
+        "start": 743.36,
+        "text": "advancement and I know quite a few data"
+    },
+    {
+        "duration": 3.32,
+        "start": 745.199,
+        "text": "analysts and data scientists or people"
+    },
+    {
+        "duration": 3.32,
+        "start": 747.0,
+        "text": "just involved in data out there and it"
+    },
+    {
+        "duration": 3.241,
+        "start": 748.519,
+        "text": "is relatively boring a lot of them do"
+    },
+    {
+        "duration": 2.8,
+        "start": 750.32,
+        "text": "get bored with their work and then they"
+    },
+    {
+        "duration": 2.879,
+        "start": 751.76,
+        "text": "end up starting YouTube channels or"
+    },
+    {
+        "duration": 3.36,
+        "start": 753.12,
+        "text": "something like that and honestly that's"
+    },
+    {
+        "duration": 3.081,
+        "start": 754.639,
+        "text": "a very quality problem to have and"
+    },
+    {
+        "duration": 3.32,
+        "start": 756.48,
+        "text": "overall I'm going to give this one an"
+    },
+    {
+        "duration": 4.04,
+        "start": 757.72,
+        "text": "opportunity score of 9 out of 10 because"
+    },
+    {
+        "duration": 4.2,
+        "start": 759.8,
+        "text": "there's high demand low competition and"
+    },
+    {
+        "duration": 4.12,
+        "start": 761.76,
+        "text": "companies desperately need data related"
+    },
+    {
+        "duration": 4.079,
+        "start": 764.0,
+        "text": "Talent now if you're interested in the"
+    },
+    {
+        "duration": 4.639,
+        "start": 765.88,
+        "text": "best way to get educated very quickly"
+    },
+    {
+        "duration": 5.2,
+        "start": 768.079,
+        "text": "without having to spend $100,000 on a"
+    },
+    {
+        "duration": 5.44,
+        "start": 770.519,
+        "text": "college degree or buy A10 to $30,000"
+    },
+    {
+        "duration": 4.24,
+        "start": 773.279,
+        "text": "boot camp I did make a video on the best"
+    },
+    {
+        "duration": 2.961,
+        "start": 775.959,
+        "text": "certificates that are available out"
+    },
+    {
+        "duration": 2.88,
+        "start": 777.519,
+        "text": "there that are most likely to land you a"
+    },
+    {
+        "duration": 5.359,
+        "start": 778.92,
+        "text": "job and you can check that out by"
+    },
+    {
+        "duration": 3.88,
+        "start": 780.399,
+        "text": "clicking right here"
+    }
+]

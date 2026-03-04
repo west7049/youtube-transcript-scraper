@@ -1,0 +1,2337 @@
+[
+    {
+        "duration": 3.84,
+        "start": 0.0,
+        "text": "I'm about to show you 10 service"
+    },
+    {
+        "duration": 4.32,
+        "start": 1.439,
+        "text": "businesses that are so simple and so"
+    },
+    {
+        "duration": 3.919,
+        "start": 3.84,
+        "text": "profitable that you'll probably wonder"
+    },
+    {
+        "duration": 4.321,
+        "start": 5.759,
+        "text": "why everyone's wasting time with"
+    },
+    {
+        "duration": 3.76,
+        "start": 7.759,
+        "text": "complicated online schemes. Now, don't"
+    },
+    {
+        "duration": 3.439,
+        "start": 10.08,
+        "text": "get me wrong, there's a lot of great"
+    },
+    {
+        "duration": 3.761,
+        "start": 11.519,
+        "text": "ways of making money online, but it's"
+    },
+    {
+        "duration": 4.401,
+        "start": 13.519,
+        "text": "not for everyone. And I've been getting"
+    },
+    {
+        "duration": 4.24,
+        "start": 15.28,
+        "text": "tired of all the passive income BS that"
+    },
+    {
+        "duration": 3.439,
+        "start": 17.92,
+        "text": "everyone's promoting. So, I decided to"
+    },
+    {
+        "duration": 3.999,
+        "start": 19.52,
+        "text": "research what's actually working for"
+    },
+    {
+        "duration": 3.68,
+        "start": 21.359,
+        "text": "normal people who want to start a real"
+    },
+    {
+        "duration": 3.84,
+        "start": 23.519,
+        "text": "business. See, the government and"
+    },
+    {
+        "duration": 4.56,
+        "start": 25.039,
+        "text": "organizations like BLS actually publish"
+    },
+    {
+        "duration": 4.0,
+        "start": 27.359,
+        "text": "statistics on which businesses have"
+    },
+    {
+        "duration": 3.281,
+        "start": 29.599,
+        "text": "higher success rates. And when you go"
+    },
+    {
+        "duration": 3.121,
+        "start": 31.359,
+        "text": "down that rabbit hole, you're going to"
+    },
+    {
+        "duration": 3.28,
+        "start": 32.88,
+        "text": "find a bunch of businesses that have"
+    },
+    {
+        "duration": 3.52,
+        "start": 34.48,
+        "text": "super high success rates and they're"
+    },
+    {
+        "duration": 3.44,
+        "start": 36.16,
+        "text": "super simple and they make a ton of"
+    },
+    {
+        "duration": 3.92,
+        "start": 38.0,
+        "text": "money. So, while everyone's chasing the"
+    },
+    {
+        "duration": 4.0,
+        "start": 39.6,
+        "text": "latest app idea or trying to ship cheap"
+    },
+    {
+        "duration": 3.44,
+        "start": 41.92,
+        "text": "products from China, these are"
+    },
+    {
+        "duration": 3.68,
+        "start": 43.6,
+        "text": "incredibly simple service businesses"
+    },
+    {
+        "duration": 3.92,
+        "start": 45.36,
+        "text": "that are absolutely crushing it. I'm"
+    },
+    {
+        "duration": 5.04,
+        "start": 47.28,
+        "text": "talking about people making 5,000,"
+    },
+    {
+        "duration": 4.959,
+        "start": 49.28,
+        "text": "10,000, even $20,000 a month with"
+    },
+    {
+        "duration": 4.0,
+        "start": 52.32,
+        "text": "businesses that require nothing more"
+    },
+    {
+        "duration": 3.761,
+        "start": 54.239,
+        "text": "than basic skills and a willingness to"
+    },
+    {
+        "duration": 4.16,
+        "start": 56.32,
+        "text": "work. So, today I'm going to break down"
+    },
+    {
+        "duration": 4.48,
+        "start": 58.0,
+        "text": "all 10 of these service business ideas,"
+    },
+    {
+        "duration": 4.079,
+        "start": 60.48,
+        "text": "show you exactly how much money people"
+    },
+    {
+        "duration": 3.92,
+        "start": 62.48,
+        "text": "are making, and give you step-by-step"
+    },
+    {
+        "duration": 3.6,
+        "start": 64.559,
+        "text": "instructions for getting started."
+    },
+    {
+        "duration": 3.84,
+        "start": 66.4,
+        "text": "Because honestly, after seeing how well"
+    },
+    {
+        "duration": 3.841,
+        "start": 68.159,
+        "text": "these work, I think service businesses"
+    },
+    {
+        "duration": 3.6,
+        "start": 70.24,
+        "text": "might be the best kept secret in"
+    },
+    {
+        "duration": 3.119,
+        "start": 72.0,
+        "text": "entrepreneurship right now. And again,"
+    },
+    {
+        "duration": 2.72,
+        "start": 73.84,
+        "text": "don't get me wrong. I think there's a"
+    },
+    {
+        "duration": 3.921,
+        "start": 75.119,
+        "text": "lot of great opportunities when it comes"
+    },
+    {
+        "duration": 4.559,
+        "start": 76.56,
+        "text": "to making money online, but it's not for"
+    },
+    {
+        "duration": 4.16,
+        "start": 79.04,
+        "text": "everyone. There is no such thing as a"
+    },
+    {
+        "duration": 4.401,
+        "start": 81.119,
+        "text": "best opportunity. There's only a best"
+    },
+    {
+        "duration": 3.84,
+        "start": 83.2,
+        "text": "opportunity for you and your specific"
+    },
+    {
+        "duration": 2.48,
+        "start": 85.52,
+        "text": "situation. So, I think this video is"
+    },
+    {
+        "duration": 3.119,
+        "start": 87.04,
+        "text": "going to give you some really good"
+    },
+    {
+        "duration": 4.0,
+        "start": 88.0,
+        "text": "insights and all I ask in return is that"
+    },
+    {
+        "duration": 3.361,
+        "start": 90.159,
+        "text": "you gently tap that like button and"
+    },
+    {
+        "duration": 3.04,
+        "start": 92.0,
+        "text": "let's jump into it right now. All right."
+    },
+    {
+        "duration": 3.279,
+        "start": 93.52,
+        "text": "So, I'm going to start with the examples"
+    },
+    {
+        "duration": 4.16,
+        "start": 95.04,
+        "text": "and I'm going to tell you about the"
+    },
+    {
+        "duration": 4.881,
+        "start": 96.799,
+        "text": "business. So, first of all is Laura"
+    },
+    {
+        "duration": 5.12,
+        "start": 99.2,
+        "text": "Spalding and Spalding Decon. And this is"
+    },
+    {
+        "duration": 5.28,
+        "start": 101.68,
+        "text": "a very weird but simple business that"
+    },
+    {
+        "duration": 5.36,
+        "start": 104.32,
+        "text": "cleans crime scenes, hoarding houses,"
+    },
+    {
+        "duration": 4.479,
+        "start": 106.96,
+        "text": "and labs. Yeah, seriously. So, you can"
+    },
+    {
+        "duration": 3.92,
+        "start": 109.68,
+        "text": "see this article right here. She's the"
+    },
+    {
+        "duration": 3.68,
+        "start": 111.439,
+        "text": "owner of Spalding Decon. And basically,"
+    },
+    {
+        "duration": 3.04,
+        "start": 113.6,
+        "text": "when a crime happens on a lot of these"
+    },
+    {
+        "duration": 2.801,
+        "start": 115.119,
+        "text": "properties, it's kind of difficult to"
+    },
+    {
+        "duration": 2.56,
+        "start": 116.64,
+        "text": "sell it. And so, what she'll do is"
+    },
+    {
+        "duration": 2.559,
+        "start": 117.92,
+        "text": "she'll clean up the property and a lot"
+    },
+    {
+        "duration": 3.279,
+        "start": 119.2,
+        "text": "of the times she'll either buy it or"
+    },
+    {
+        "duration": 4.081,
+        "start": 120.479,
+        "text": "she'll be the real estate agent to sell"
+    },
+    {
+        "duration": 4.401,
+        "start": 122.479,
+        "text": "the house to somebody else. And she said"
+    },
+    {
+        "duration": 4.319,
+        "start": 124.56,
+        "text": "that investors usually spend thousands"
+    },
+    {
+        "duration": 4.159,
+        "start": 126.88,
+        "text": "and thousands of dollars trying to find"
+    },
+    {
+        "duration": 4.321,
+        "start": 128.879,
+        "text": "houses to invest in. and she said, \"I"
+    },
+    {
+        "duration": 4.881,
+        "start": 131.039,
+        "text": "don't even need to spend a dollar.\" And"
+    },
+    {
+        "duration": 6.32,
+        "start": 133.2,
+        "text": "in 2019, Spalding Decon cleanup"
+    },
+    {
+        "duration": 5.28,
+        "start": 135.92,
+        "text": "operation made $4.5 million in revenue,"
+    },
+    {
+        "duration": 4.32,
+        "start": 139.52,
+        "text": "according to Inc. magazine. And then she"
+    },
+    {
+        "duration": 4.64,
+        "start": 141.2,
+        "text": "earned $10 million last year. So, this"
+    },
+    {
+        "duration": 4.64,
+        "start": 143.84,
+        "text": "is sort of like two businesses in one,"
+    },
+    {
+        "duration": 4.88,
+        "start": 145.84,
+        "text": "but one of them is just cleaning up like"
+    },
+    {
+        "duration": 4.24,
+        "start": 148.48,
+        "text": "crime scenes, hoarding houses, etc."
+    },
+    {
+        "duration": 3.84,
+        "start": 150.72,
+        "text": "Basically, places that most people would"
+    },
+    {
+        "duration": 3.68,
+        "start": 152.72,
+        "text": "not want to touch. And so, a really good"
+    },
+    {
+        "duration": 3.12,
+        "start": 154.56,
+        "text": "contact to have would, of course, be the"
+    },
+    {
+        "duration": 2.64,
+        "start": 156.4,
+        "text": "police station because they're going to"
+    },
+    {
+        "duration": 2.88,
+        "start": 157.68,
+        "text": "know what houses to clean up. And in"
+    },
+    {
+        "duration": 2.8,
+        "start": 159.04,
+        "text": "many cases, they might even subcontract"
+    },
+    {
+        "duration": 3.12,
+        "start": 160.56,
+        "text": "you to clean it up. And then she"
+    },
+    {
+        "duration": 3.6,
+        "start": 161.84,
+        "text": "combined this business with a real"
+    },
+    {
+        "duration": 3.919,
+        "start": 163.68,
+        "text": "estate business where she actually helps"
+    },
+    {
+        "duration": 3.84,
+        "start": 165.44,
+        "text": "the people who own the house to sell it."
+    },
+    {
+        "duration": 2.961,
+        "start": 167.599,
+        "text": "So yeah, pretty brilliant business model"
+    },
+    {
+        "duration": 3.28,
+        "start": 169.28,
+        "text": "combining those two together"
+    },
+    {
+        "duration": 4.08,
+        "start": 170.56,
+        "text": "synergistically and she's making $10"
+    },
+    {
+        "duration": 4.8,
+        "start": 172.56,
+        "text": "million a year doing it. All right, next"
+    },
+    {
+        "duration": 4.64,
+        "start": 174.64,
+        "text": "one is Byron Reese with the company"
+    },
+    {
+        "duration": 4.239,
+        "start": 177.36,
+        "text": "Santa Mail. So basically all Byron does"
+    },
+    {
+        "duration": 4.959,
+        "start": 179.28,
+        "text": "is he sends personalized letters from"
+    },
+    {
+        "duration": 5.601,
+        "start": 181.599,
+        "text": "Santa Claus with authentic North Pole"
+    },
+    {
+        "duration": 5.36,
+        "start": 184.239,
+        "text": "stamps uh to children across the USA. So"
+    },
+    {
+        "duration": 4.8,
+        "start": 187.2,
+        "text": "only USA, no other countries allowed."
+    },
+    {
+        "duration": 4.56,
+        "start": 189.599,
+        "text": "But uh yeah, basically he's making"
+    },
+    {
+        "duration": 3.68,
+        "start": 192.0,
+        "text": "millions of dollars with this business."
+    },
+    {
+        "duration": 4.08,
+        "start": 194.159,
+        "text": "And his company actually reached 1"
+    },
+    {
+        "duration": 5.279,
+        "start": 195.68,
+        "text": "million in sales by 2005. And they sent"
+    },
+    {
+        "duration": 5.041,
+        "start": 198.239,
+        "text": "a total of $500,000 letters costing"
+    },
+    {
+        "duration": 4.161,
+        "start": 200.959,
+        "text": "around $14.95"
+    },
+    {
+        "duration": 4.4,
+        "start": 203.28,
+        "text": "each. Plus, there's upsells on top of"
+    },
+    {
+        "duration": 5.679,
+        "start": 205.12,
+        "text": "that. But just with the $14.95,"
+    },
+    {
+        "duration": 5.76,
+        "start": 207.68,
+        "text": "that's about $7,475,000"
+    },
+    {
+        "duration": 4.8,
+        "start": 210.799,
+        "text": "in sales just by sending postcards. Now,"
+    },
+    {
+        "duration": 4.719,
+        "start": 213.44,
+        "text": "this is obviously a seasonal business,"
+    },
+    {
+        "duration": 4.241,
+        "start": 215.599,
+        "text": "but he's making a full-time income with"
+    },
+    {
+        "duration": 3.36,
+        "start": 218.159,
+        "text": "this seasonal business. Now, he's"
+    },
+    {
+        "duration": 3.28,
+        "start": 219.84,
+        "text": "probably not making a million dollars a"
+    },
+    {
+        "duration": 3.921,
+        "start": 221.519,
+        "text": "year considering, you know, he made it"
+    },
+    {
+        "duration": 4.0,
+        "start": 223.12,
+        "text": "to a million about 20 years ago, but if"
+    },
+    {
+        "duration": 5.359,
+        "start": 225.44,
+        "text": "you do the math, he's probably making"
+    },
+    {
+        "duration": 6.24,
+        "start": 227.12,
+        "text": "around $300 to $500,000 a year. And he"
+    },
+    {
+        "duration": 3.841,
+        "start": 230.799,
+        "text": "only has to do work during like the last"
+    },
+    {
+        "duration": 3.12,
+        "start": 233.36,
+        "text": "month of the year, which is pretty"
+    },
+    {
+        "duration": 4.08,
+        "start": 234.64,
+        "text": "awesome. And he also had an idea for one"
+    },
+    {
+        "duration": 4.64,
+        "start": 236.48,
+        "text": "of his upsells where he basically sends"
+    },
+    {
+        "duration": 4.159,
+        "start": 238.72,
+        "text": "snow along with a postcard, and it's"
+    },
+    {
+        "duration": 4.0,
+        "start": 241.12,
+        "text": "obviously fake snow. All right, quick"
+    },
+    {
+        "duration": 4.881,
+        "start": 242.879,
+        "text": "break. Quick break. This Tuesday, 9:00"
+    },
+    {
+        "duration": 5.28,
+        "start": 245.12,
+        "text": "p.m. Eastern time, I'm doing a one-time"
+    },
+    {
+        "duration": 4.32,
+        "start": 247.76,
+        "text": "only workshop where I talk about hybrid"
+    },
+    {
+        "duration": 4.72,
+        "start": 250.4,
+        "text": "YouTube automation, which is YouTube"
+    },
+    {
+        "duration": 4.64,
+        "start": 252.08,
+        "text": "automation that actually works. And at"
+    },
+    {
+        "duration": 4.48,
+        "start": 255.12,
+        "text": "this workshop, I'm going to be giving"
+    },
+    {
+        "duration": 5.12,
+        "start": 256.72,
+        "text": "away my oneclick script writer. This is"
+    },
+    {
+        "duration": 3.68,
+        "start": 259.6,
+        "text": "a GPT, a piece of software that I've"
+    },
+    {
+        "duration": 3.76,
+        "start": 261.84,
+        "text": "been working on. It's been trained on"
+    },
+    {
+        "duration": 4.72,
+        "start": 263.28,
+        "text": "thousands of hours of my teaching, my"
+    },
+    {
+        "duration": 4.4,
+        "start": 265.6,
+        "text": "scripts, coaching sessions, etc. And you"
+    },
+    {
+        "duration": 3.6,
+        "start": 268.0,
+        "text": "can make a script in as little as one"
+    },
+    {
+        "duration": 3.199,
+        "start": 270.0,
+        "text": "click using this software. So, I'm going"
+    },
+    {
+        "duration": 3.44,
+        "start": 271.6,
+        "text": "to be giving that away for this one time"
+    },
+    {
+        "duration": 2.881,
+        "start": 273.199,
+        "text": "only at this workshop. So, make sure you"
+    },
+    {
+        "duration": 2.56,
+        "start": 275.04,
+        "text": "show up, click the link in the"
+    },
+    {
+        "duration": 3.04,
+        "start": 276.08,
+        "text": "description, pin comment below. Also,"
+    },
+    {
+        "duration": 3.12,
+        "start": 277.6,
+        "text": "make sure to put it on your calendar,"
+    },
+    {
+        "duration": 3.04,
+        "start": 279.12,
+        "text": "save the date, Tuesday, 9:00 p.m."
+    },
+    {
+        "duration": 2.72,
+        "start": 280.72,
+        "text": "Eastern time, and I'll see you there."
+    },
+    {
+        "duration": 2.64,
+        "start": 282.16,
+        "text": "And also, you'll be able to ask me"
+    },
+    {
+        "duration": 3.12,
+        "start": 283.44,
+        "text": "questions live. So, I look forward to"
+    },
+    {
+        "duration": 3.04,
+        "start": 284.8,
+        "text": "meeting you. See you there Tuesday 9:00"
+    },
+    {
+        "duration": 2.88,
+        "start": 286.56,
+        "text": "p.m. Eastern time. And now we'll get"
+    },
+    {
+        "duration": 4.639,
+        "start": 287.84,
+        "text": "back to your regularly scheduled"
+    },
+    {
+        "duration": 5.92,
+        "start": 289.44,
+        "text": "programming. All right. Next example is"
+    },
+    {
+        "duration": 5.121,
+        "start": 292.479,
+        "text": "Ari, who owns the company Clean Queen."
+    },
+    {
+        "duration": 4.48,
+        "start": 295.36,
+        "text": "And basically she cleans really dirty"
+    },
+    {
+        "duration": 4.24,
+        "start": 297.6,
+        "text": "houses and she created a business off of"
+    },
+    {
+        "duration": 4.48,
+        "start": 299.84,
+        "text": "that and became a millionaire doing it."
+    },
+    {
+        "duration": 4.88,
+        "start": 301.84,
+        "text": "Now of course she gets paid to clean the"
+    },
+    {
+        "duration": 4.56,
+        "start": 304.32,
+        "text": "houses. So that's one business and she"
+    },
+    {
+        "duration": 4.0,
+        "start": 306.72,
+        "text": "takes on the dirtiest houses, the houses"
+    },
+    {
+        "duration": 4.319,
+        "start": 308.88,
+        "text": "that some cleaning companies won't even"
+    },
+    {
+        "duration": 5.12,
+        "start": 310.72,
+        "text": "touch. But the brilliant part about her"
+    },
+    {
+        "duration": 4.72,
+        "start": 313.199,
+        "text": "business is she actually records it and"
+    },
+    {
+        "duration": 3.84,
+        "start": 315.84,
+        "text": "then she uploads it to YouTube. And"
+    },
+    {
+        "duration": 3.84,
+        "start": 317.919,
+        "text": "according to view stats, which basically"
+    },
+    {
+        "duration": 4.64,
+        "start": 319.68,
+        "text": "estimates how much money YouTube"
+    },
+    {
+        "duration": 4.321,
+        "start": 321.759,
+        "text": "channels make, she has gotten 1.23 23"
+    },
+    {
+        "duration": 6.319,
+        "start": 324.32,
+        "text": "billion views and she's made somewhere"
+    },
+    {
+        "duration": 6.0,
+        "start": 326.08,
+        "text": "between $641 to $2.1 million. Now,"
+    },
+    {
+        "duration": 3.441,
+        "start": 330.639,
+        "text": "generally speaking, view stats"
+    },
+    {
+        "duration": 3.679,
+        "start": 332.08,
+        "text": "underestimates how much money channels"
+    },
+    {
+        "duration": 3.6,
+        "start": 334.08,
+        "text": "are making. And I would bet that she's"
+    },
+    {
+        "duration": 3.44,
+        "start": 335.759,
+        "text": "made significantly more than that. Not"
+    },
+    {
+        "duration": 3.04,
+        "start": 337.68,
+        "text": "to mention the fact that she can sell"
+    },
+    {
+        "duration": 3.201,
+        "start": 339.199,
+        "text": "products and services on her channel."
+    },
+    {
+        "duration": 3.52,
+        "start": 340.72,
+        "text": "She can do sponsorships, she can do"
+    },
+    {
+        "duration": 3.44,
+        "start": 342.4,
+        "text": "affiliate links, etc. So, she's made a"
+    },
+    {
+        "duration": 4.88,
+        "start": 344.24,
+        "text": "lot more money than that. And her most"
+    },
+    {
+        "duration": 5.68,
+        "start": 345.84,
+        "text": "viewed video made about $27,000."
+    },
+    {
+        "duration": 4.48,
+        "start": 349.12,
+        "text": "So, again, brilliant. She found a"
+    },
+    {
+        "duration": 4.08,
+        "start": 351.52,
+        "text": "synergistic way to make money with her"
+    },
+    {
+        "duration": 4.24,
+        "start": 353.6,
+        "text": "main business and then she has a second"
+    },
+    {
+        "duration": 3.92,
+        "start": 355.6,
+        "text": "business on the side that she makes even"
+    },
+    {
+        "duration": 3.04,
+        "start": 357.84,
+        "text": "more money with. And this is actually a"
+    },
+    {
+        "duration": 3.36,
+        "start": 359.52,
+        "text": "theme that I'm probably going to go over"
+    },
+    {
+        "duration": 3.28,
+        "start": 360.88,
+        "text": "a couple times in this video cuz I see"
+    },
+    {
+        "duration": 2.72,
+        "start": 362.88,
+        "text": "some people out there that are doing"
+    },
+    {
+        "duration": 3.44,
+        "start": 364.16,
+        "text": "this and I think it's brilliant. So"
+    },
+    {
+        "duration": 3.599,
+        "start": 365.6,
+        "text": "basically the formula is figure out how"
+    },
+    {
+        "duration": 3.68,
+        "start": 367.6,
+        "text": "to make money even if it's just a few"
+    },
+    {
+        "duration": 3.84,
+        "start": 369.199,
+        "text": "thousand a month with a side hustle or"
+    },
+    {
+        "duration": 3.919,
+        "start": 371.28,
+        "text": "something like that and then teach other"
+    },
+    {
+        "duration": 4.481,
+        "start": 373.039,
+        "text": "people how to do the same thing online"
+    },
+    {
+        "duration": 4.401,
+        "start": 375.199,
+        "text": "or do that thing and make entertaining"
+    },
+    {
+        "duration": 4.32,
+        "start": 377.52,
+        "text": "videos out of it. Very similar to Dr."
+    },
+    {
+        "duration": 4.56,
+        "start": 379.6,
+        "text": "pimple popper on YouTube who makes money"
+    },
+    {
+        "duration": 3.84,
+        "start": 381.84,
+        "text": "popping people's uh pimples and cysts"
+    },
+    {
+        "duration": 3.599,
+        "start": 384.16,
+        "text": "and all that kind of weird stuff, but"
+    },
+    {
+        "duration": 3.92,
+        "start": 385.68,
+        "text": "then she makes way more money uploading"
+    },
+    {
+        "duration": 4.401,
+        "start": 387.759,
+        "text": "that to YouTube after she's done it. All"
+    },
+    {
+        "duration": 4.159,
+        "start": 389.6,
+        "text": "right, the next one is a ve it's it is"
+    },
+    {
+        "duration": 3.44,
+        "start": 392.16,
+        "text": "technically a service business, but it's"
+    },
+    {
+        "duration": 4.0,
+        "start": 393.759,
+        "text": "a very weird one. And this might be for"
+    },
+    {
+        "duration": 4.24,
+        "start": 395.6,
+        "text": "the ladies who watch my channel. And"
+    },
+    {
+        "duration": 4.72,
+        "start": 397.759,
+        "text": "this is Jen Glance, and she started the"
+    },
+    {
+        "duration": 4.96,
+        "start": 399.84,
+        "text": "company Bridesmaid for Hire, okay? and"
+    },
+    {
+        "duration": 4.481,
+        "start": 402.479,
+        "text": "she operates a professional bridesmaid"
+    },
+    {
+        "duration": 4.56,
+        "start": 404.8,
+        "text": "service where she acts as a hired"
+    },
+    {
+        "duration": 4.64,
+        "start": 406.96,
+        "text": "bridesmaid for weddings doing everything"
+    },
+    {
+        "duration": 5.279,
+        "start": 409.36,
+        "text": "a close friend would do. And she gets"
+    },
+    {
+        "duration": 6.48,
+        "start": 411.6,
+        "text": "paid up to $10,000 per wedding to do"
+    },
+    {
+        "duration": 5.921,
+        "start": 414.639,
+        "text": "this. So this one is just very odd. This"
+    },
+    {
+        "duration": 3.6,
+        "start": 418.08,
+        "text": "is like I was kind of talking about this"
+    },
+    {
+        "duration": 2.88,
+        "start": 420.56,
+        "text": "like you only see these types of"
+    },
+    {
+        "duration": 3.68,
+        "start": 421.68,
+        "text": "businesses in like first world"
+    },
+    {
+        "duration": 5.039,
+        "start": 423.44,
+        "text": "countries, right? Like this is just a"
+    },
+    {
+        "duration": 5.76,
+        "start": 425.36,
+        "text": "weird business. Paying someone $10,000"
+    },
+    {
+        "duration": 4.72,
+        "start": 428.479,
+        "text": "to pretend to be like a long lost friend"
+    },
+    {
+        "duration": 4.079,
+        "start": 431.12,
+        "text": "and to be your bridesmaid is super"
+    },
+    {
+        "duration": 3.361,
+        "start": 433.199,
+        "text": "weird. Okay. And I guess she started"
+    },
+    {
+        "duration": 3.361,
+        "start": 435.199,
+        "text": "this business because her friends and"
+    },
+    {
+        "duration": 4.32,
+        "start": 436.56,
+        "text": "acquaintances kept complimenting her on"
+    },
+    {
+        "duration": 4.079,
+        "start": 438.56,
+        "text": "what a great bridesmaid she was. Uh and"
+    },
+    {
+        "duration": 3.28,
+        "start": 440.88,
+        "text": "that's when she got the idea, what if I"
+    },
+    {
+        "duration": 3.12,
+        "start": 442.639,
+        "text": "could just do this for people that I'm"
+    },
+    {
+        "duration": 3.12,
+        "start": 444.16,
+        "text": "hardly friends with and get paid to do"
+    },
+    {
+        "duration": 3.361,
+        "start": 445.759,
+        "text": "it? And she basically said that people"
+    },
+    {
+        "duration": 4.96,
+        "start": 447.28,
+        "text": "hire her since they don't have any"
+    },
+    {
+        "duration": 5.519,
+        "start": 449.12,
+        "text": "friends, which is super sad and it's"
+    },
+    {
+        "duration": 4.88,
+        "start": 452.24,
+        "text": "kind of like sounds like it might be the"
+    },
+    {
+        "duration": 5.921,
+        "start": 454.639,
+        "text": "plot of the next Black Mirror episode."
+    },
+    {
+        "duration": 4.88,
+        "start": 457.12,
+        "text": "Um, but yeah, super sad, but uh, hey,"
+    },
+    {
+        "duration": 4.0,
+        "start": 460.56,
+        "text": "she's making a lot of money doing it."
+    },
+    {
+        "duration": 5.44,
+        "start": 462.0,
+        "text": "And she's done over 200 weddings now."
+    },
+    {
+        "duration": 4.479,
+        "start": 464.56,
+        "text": "Now, her packages start at $2,500."
+    },
+    {
+        "duration": 4.159,
+        "start": 467.44,
+        "text": "And depending on the event, she gets as"
+    },
+    {
+        "duration": 4.16,
+        "start": 469.039,
+        "text": "much as $10,000 per event. So, if she"
+    },
+    {
+        "duration": 4.401,
+        "start": 471.599,
+        "text": "just gets booked for one wedding a week,"
+    },
+    {
+        "duration": 4.72,
+        "start": 473.199,
+        "text": "that's over $500,000 a year. Now, on top"
+    },
+    {
+        "duration": 4.0,
+        "start": 476.0,
+        "text": "of it, she's being smart and she's"
+    },
+    {
+        "duration": 3.68,
+        "start": 477.919,
+        "text": "teaching other people how they can make"
+    },
+    {
+        "duration": 3.599,
+        "start": 480.0,
+        "text": "money doing this as well. And again,"
+    },
+    {
+        "duration": 3.361,
+        "start": 481.599,
+        "text": "this is a recurring theme that I think"
+    },
+    {
+        "duration": 3.04,
+        "start": 483.599,
+        "text": "is really important for people to"
+    },
+    {
+        "duration": 3.12,
+        "start": 484.96,
+        "text": "understand is that you can make money"
+    },
+    {
+        "duration": 3.361,
+        "start": 486.639,
+        "text": "doing something and then you can make"
+    },
+    {
+        "duration": 3.6,
+        "start": 488.08,
+        "text": "way more money teaching other people how"
+    },
+    {
+        "duration": 3.199,
+        "start": 490.0,
+        "text": "to do the same thing. So, she sells a"
+    },
+    {
+        "duration": 4.48,
+        "start": 491.68,
+        "text": "course on how to become a professional"
+    },
+    {
+        "duration": 4.4,
+        "start": 493.199,
+        "text": "bridesmaid and it's $47. Now, who knows"
+    },
+    {
+        "duration": 3.28,
+        "start": 496.16,
+        "text": "how much she's making from that, but"
+    },
+    {
+        "duration": 3.6,
+        "start": 497.599,
+        "text": "it's probably a nice little side income"
+    },
+    {
+        "duration": 3.759,
+        "start": 499.44,
+        "text": "and it's relatively passive. All right,"
+    },
+    {
+        "duration": 4.0,
+        "start": 501.199,
+        "text": "next one is going to be grave care"
+    },
+    {
+        "duration": 3.921,
+        "start": 503.199,
+        "text": "maintenance. And this is basically a"
+    },
+    {
+        "duration": 3.601,
+        "start": 505.199,
+        "text": "service where you provide specialized"
+    },
+    {
+        "duration": 3.84,
+        "start": 507.12,
+        "text": "cleaning, maintenance, and decorative"
+    },
+    {
+        "duration": 4.64,
+        "start": 508.8,
+        "text": "arrangements to preserve and honor loved"
+    },
+    {
+        "duration": 4.959,
+        "start": 510.96,
+        "text": "ones resting places. So there's a"
+    },
+    {
+        "duration": 3.92,
+        "start": 513.44,
+        "text": "website here, gravecare business.com,"
+    },
+    {
+        "duration": 3.12,
+        "start": 515.919,
+        "text": "where they talk about kind of how to do"
+    },
+    {
+        "duration": 3.76,
+        "start": 517.36,
+        "text": "this and how it works and how much money"
+    },
+    {
+        "duration": 4.161,
+        "start": 519.039,
+        "text": "you can make, etc. And there's a YouTube"
+    },
+    {
+        "duration": 3.92,
+        "start": 521.12,
+        "text": "channel called Millennial Stone Cleaner"
+    },
+    {
+        "duration": 4.0,
+        "start": 523.2,
+        "text": "that also shows how to do this as well."
+    },
+    {
+        "duration": 4.16,
+        "start": 525.04,
+        "text": "So, he's another example of someone who"
+    },
+    {
+        "duration": 3.84,
+        "start": 527.2,
+        "text": "makes money actually doing grave"
+    },
+    {
+        "duration": 3.92,
+        "start": 529.2,
+        "text": "cleaning and grave services and grave"
+    },
+    {
+        "duration": 4.08,
+        "start": 531.04,
+        "text": "care, but then he's making more money"
+    },
+    {
+        "duration": 4.24,
+        "start": 533.12,
+        "text": "uploading those videos to YouTube. So,"
+    },
+    {
+        "duration": 5.52,
+        "start": 535.12,
+        "text": "on gravecare business.com, they actually"
+    },
+    {
+        "duration": 5.36,
+        "start": 537.36,
+        "text": "say that you can make $200 to $800 a day"
+    },
+    {
+        "duration": 3.36,
+        "start": 540.64,
+        "text": "doing this part-time, right? So, it's"
+    },
+    {
+        "duration": 3.44,
+        "start": 542.72,
+        "text": "not even like a full-time business and"
+    },
+    {
+        "duration": 3.44,
+        "start": 544.0,
+        "text": "you can make up to $200 to $800 a day"
+    },
+    {
+        "duration": 2.88,
+        "start": 546.16,
+        "text": "according to that website. And then"
+    },
+    {
+        "duration": 4.0,
+        "start": 547.44,
+        "text": "companies like Grave Groomers,"
+    },
+    {
+        "duration": 5.44,
+        "start": 549.04,
+        "text": "PlotKeepers, and Ever Rest offer"
+    },
+    {
+        "duration": 4.399,
+        "start": 551.44,
+        "text": "services starting at $35 to $100 per"
+    },
+    {
+        "duration": 3.68,
+        "start": 554.48,
+        "text": "visit. All right, so the next two"
+    },
+    {
+        "duration": 4.081,
+        "start": 555.839,
+        "text": "businesses are relatively similar. And"
+    },
+    {
+        "duration": 4.32,
+        "start": 558.16,
+        "text": "the first one is going to be Rent a"
+    },
+    {
+        "duration": 4.56,
+        "start": 559.92,
+        "text": "Goat. And this was started by Mike"
+    },
+    {
+        "duration": 4.56,
+        "start": 562.48,
+        "text": "Canada. And this company actually ended"
+    },
+    {
+        "duration": 5.52,
+        "start": 564.48,
+        "text": "up on Shark Tank. And basically, this is"
+    },
+    {
+        "duration": 5.04,
+        "start": 567.04,
+        "text": "a grass mowing business, but you mow the"
+    },
+    {
+        "duration": 3.76,
+        "start": 570.0,
+        "text": "grass with goats instead of a lawn"
+    },
+    {
+        "duration": 3.6,
+        "start": 572.08,
+        "text": "mower. Yeah, you heard that right. So,"
+    },
+    {
+        "duration": 4.32,
+        "start": 573.76,
+        "text": "they basically bring a herd of goats to"
+    },
+    {
+        "duration": 4.24,
+        "start": 575.68,
+        "text": "a customer's property, erect a portable"
+    },
+    {
+        "duration": 3.52,
+        "start": 578.08,
+        "text": "electric fence around the perimeter and"
+    },
+    {
+        "duration": 4.4,
+        "start": 579.92,
+        "text": "let them do their thing. And as of"
+    },
+    {
+        "duration": 5.84,
+        "start": 581.6,
+        "text": "August 2023, Rent a Goat expanded to"
+    },
+    {
+        "duration": 5.6,
+        "start": 584.32,
+        "text": "over $3,500 goats, and they generate $2"
+    },
+    {
+        "duration": 4.56,
+        "start": 587.44,
+        "text": "million in annual revenue by providing"
+    },
+    {
+        "duration": 4.16,
+        "start": 589.92,
+        "text": "services for large companies, federal"
+    },
+    {
+        "duration": 4.32,
+        "start": 592.0,
+        "text": "lands, and fire breaks in California."
+    },
+    {
+        "duration": 5.04,
+        "start": 594.08,
+        "text": "Now, you might be wondering why anybody"
+    },
+    {
+        "duration": 5.36,
+        "start": 596.32,
+        "text": "would rent a goat instead of just hiring"
+    },
+    {
+        "duration": 4.32,
+        "start": 599.12,
+        "text": "a lawn care company or just mowing their"
+    },
+    {
+        "duration": 3.76,
+        "start": 601.68,
+        "text": "lawn themselves with a lawn mower. Well,"
+    },
+    {
+        "duration": 3.44,
+        "start": 603.44,
+        "text": "this is a relatively new movement where"
+    },
+    {
+        "duration": 3.28,
+        "start": 605.44,
+        "text": "people are basically just being"
+    },
+    {
+        "duration": 3.28,
+        "start": 606.88,
+        "text": "eco-friendly. It's called eco-friendly"
+    },
+    {
+        "duration": 2.96,
+        "start": 608.72,
+        "text": "landscaping. So, that's one of the main"
+    },
+    {
+        "duration": 3.28,
+        "start": 610.16,
+        "text": "things is it's much better for the"
+    },
+    {
+        "duration": 3.44,
+        "start": 611.68,
+        "text": "health of the land and much better for"
+    },
+    {
+        "duration": 3.36,
+        "start": 613.44,
+        "text": "the environment and the atmosphere. But"
+    },
+    {
+        "duration": 3.68,
+        "start": 615.12,
+        "text": "on top of that, goats can actually get"
+    },
+    {
+        "duration": 3.92,
+        "start": 616.8,
+        "text": "into hardto-reach places. So, if you"
+    },
+    {
+        "duration": 4.32,
+        "start": 618.8,
+        "text": "have any rocks or, you know, rocky"
+    },
+    {
+        "duration": 4.08,
+        "start": 620.72,
+        "text": "terrain or, you know, elevated terrain"
+    },
+    {
+        "duration": 3.6,
+        "start": 623.12,
+        "text": "on your property, goats will actually be"
+    },
+    {
+        "duration": 3.68,
+        "start": 624.8,
+        "text": "able to jump up on it and still eat the"
+    },
+    {
+        "duration": 3.679,
+        "start": 626.72,
+        "text": "grass. So, yeah, this is a very weird"
+    },
+    {
+        "duration": 3.359,
+        "start": 628.48,
+        "text": "service business, but it is a legit"
+    },
+    {
+        "duration": 3.201,
+        "start": 630.399,
+        "text": "service business and you get to feed"
+    },
+    {
+        "duration": 3.921,
+        "start": 631.839,
+        "text": "your goats for free. Oh, and while your"
+    },
+    {
+        "duration": 3.76,
+        "start": 633.6,
+        "text": "goats aren't busy mowing lawns, they"
+    },
+    {
+        "duration": 3.28,
+        "start": 635.76,
+        "text": "could do the next business, which is"
+    },
+    {
+        "duration": 3.84,
+        "start": 637.36,
+        "text": "goat to meeting. And this is where you"
+    },
+    {
+        "duration": 4.72,
+        "start": 639.04,
+        "text": "provide virtual animal appearances"
+    },
+    {
+        "duration": 4.319,
+        "start": 641.2,
+        "text": "during video calls where goats, llamas,"
+    },
+    {
+        "duration": 3.84,
+        "start": 643.76,
+        "text": "or donkeys join meetings for"
+    },
+    {
+        "duration": 3.921,
+        "start": 645.519,
+        "text": "entertainment and stress relief. Yes,"
+    },
+    {
+        "duration": 4.239,
+        "start": 647.6,
+        "text": "this is also a thing. And the service"
+    },
+    {
+        "duration": 4.88,
+        "start": 649.44,
+        "text": "charges $50 per half hour, and it's"
+    },
+    {
+        "duration": 4.801,
+        "start": 651.839,
+        "text": "generated over $250,000"
+    },
+    {
+        "duration": 4.639,
+        "start": 654.32,
+        "text": "across 30 affiliate sanctuaries with"
+    },
+    {
+        "duration": 3.92,
+        "start": 656.64,
+        "text": "3,000 bookings from corporate clients."
+    },
+    {
+        "duration": 3.841,
+        "start": 658.959,
+        "text": "So, yeah, not going to spend too long on"
+    },
+    {
+        "duration": 3.839,
+        "start": 660.56,
+        "text": "this one. It's a bit weird, but it is a"
+    },
+    {
+        "duration": 3.44,
+        "start": 662.8,
+        "text": "thing. Oh, and if goats aren't your"
+    },
+    {
+        "duration": 3.201,
+        "start": 664.399,
+        "text": "thing, you could also try Rent the"
+    },
+    {
+        "duration": 3.12,
+        "start": 666.24,
+        "text": "Chicken. Yes, that's another business,"
+    },
+    {
+        "duration": 4.08,
+        "start": 667.6,
+        "text": "and it was started by Phil and Jyn"
+    },
+    {
+        "duration": 5.12,
+        "start": 669.36,
+        "text": "Tommpkins. And basically, they deliver"
+    },
+    {
+        "duration": 5.44,
+        "start": 671.68,
+        "text": "live egg laying hens, coops, feed, and"
+    },
+    {
+        "duration": 4.72,
+        "start": 674.48,
+        "text": "supplies to customers for 5 to 6 month"
+    },
+    {
+        "duration": 3.76,
+        "start": 677.12,
+        "text": "rental periods. So, a lot of people want"
+    },
+    {
+        "duration": 3.84,
+        "start": 679.2,
+        "text": "fresh eggs, and I guess they just want"
+    },
+    {
+        "duration": 4.24,
+        "start": 680.88,
+        "text": "to have chickens around for whatever"
+    },
+    {
+        "duration": 3.44,
+        "start": 683.04,
+        "text": "reason, and they will rent the chickens"
+    },
+    {
+        "duration": 3.12,
+        "start": 685.12,
+        "text": "from these people. And you might be"
+    },
+    {
+        "duration": 3.68,
+        "start": 686.48,
+        "text": "thinking, Shane, you know, these"
+    },
+    {
+        "duration": 3.12,
+        "start": 688.24,
+        "text": "businesses, they're ridiculous. I mean,"
+    },
+    {
+        "duration": 2.72,
+        "start": 690.16,
+        "text": "they're they're interesting, but they're"
+    },
+    {
+        "duration": 2.719,
+        "start": 691.36,
+        "text": "kind of ridiculous and people aren't"
+    },
+    {
+        "duration": 3.6,
+        "start": 692.88,
+        "text": "actually making that much money from"
+    },
+    {
+        "duration": 5.361,
+        "start": 694.079,
+        "text": "them, right? Well, nope. They actually"
+    },
+    {
+        "duration": 6.08,
+        "start": 696.48,
+        "text": "made an estimated earnings of 10 to 17"
+    },
+    {
+        "duration": 4.56,
+        "start": 699.44,
+        "text": "million in revenue for a single year."
+    },
+    {
+        "duration": 3.36,
+        "start": 702.56,
+        "text": "All right, but let's get away from the"
+    },
+    {
+        "duration": 3.6,
+        "start": 704.0,
+        "text": "weird businesses. I like including a few"
+    },
+    {
+        "duration": 3.359,
+        "start": 705.92,
+        "text": "weird businesses in these videos here"
+    },
+    {
+        "duration": 4.0,
+        "start": 707.6,
+        "text": "and there. Let's get back to some of the"
+    },
+    {
+        "duration": 4.481,
+        "start": 709.279,
+        "text": "more practical ones like garage floor"
+    },
+    {
+        "duration": 3.76,
+        "start": 711.6,
+        "text": "epoxy. So, basically, garage floor epoxy"
+    },
+    {
+        "duration": 3.36,
+        "start": 713.76,
+        "text": "coating. This particular business was"
+    },
+    {
+        "duration": 3.28,
+        "start": 715.36,
+        "text": "started by Alex from Palm Springs,"
+    },
+    {
+        "duration": 3.68,
+        "start": 717.12,
+        "text": "California area. And it's a service"
+    },
+    {
+        "duration": 4.72,
+        "start": 718.64,
+        "text": "where a durable resin-based layer is"
+    },
+    {
+        "duration": 4.32,
+        "start": 720.8,
+        "text": "applied over your concrete garage floor"
+    },
+    {
+        "duration": 3.76,
+        "start": 723.36,
+        "text": "to protect it from stains, chemicals,"
+    },
+    {
+        "duration": 4.0,
+        "start": 725.12,
+        "text": "and wear and tear while also giving it a"
+    },
+    {
+        "duration": 4.08,
+        "start": 727.12,
+        "text": "glossy, easy to clean finish. And the"
+    },
+    {
+        "duration": 5.2,
+        "start": 729.12,
+        "text": "price for doing one garage floor ranges"
+    },
+    {
+        "duration": 4.96,
+        "start": 731.2,
+        "text": "from $500 to $2,500."
+    },
+    {
+        "duration": 3.68,
+        "start": 734.32,
+        "text": "But you might be thinking, \"Wow, Shane,"
+    },
+    {
+        "duration": 3.359,
+        "start": 736.16,
+        "text": "how many people out there are actually"
+    },
+    {
+        "duration": 3.279,
+        "start": 738.0,
+        "text": "doing this to their garage floors?"
+    },
+    {
+        "duration": 4.081,
+        "start": 739.519,
+        "text": "There's not money in this, right?\" Well,"
+    },
+    {
+        "duration": 5.441,
+        "start": 741.279,
+        "text": "this guy makes $60,000 a month doing"
+    },
+    {
+        "duration": 4.799,
+        "start": 743.6,
+        "text": "this, and this guy makes $500,000 a"
+    },
+    {
+        "duration": 3.119,
+        "start": 746.72,
+        "text": "month doing this. So, yeah, there's some"
+    },
+    {
+        "duration": 3.841,
+        "start": 748.399,
+        "text": "pretty good money in it. All right, next"
+    },
+    {
+        "duration": 4.161,
+        "start": 749.839,
+        "text": "business is solar panel cleaning"
+    },
+    {
+        "duration": 3.839,
+        "start": 752.24,
+        "text": "services. And the person who did this"
+    },
+    {
+        "duration": 4.16,
+        "start": 754.0,
+        "text": "was Juan Paneda Sanchez. And this"
+    },
+    {
+        "duration": 3.921,
+        "start": 756.079,
+        "text": "business is exactly what it sounds like."
+    },
+    {
+        "duration": 3.2,
+        "start": 758.16,
+        "text": "You clean solar panels. Now, you might"
+    },
+    {
+        "duration": 2.639,
+        "start": 760.0,
+        "text": "be thinking, why should you keep your"
+    },
+    {
+        "duration": 3.84,
+        "start": 761.36,
+        "text": "panels clean? Well, you're going to get"
+    },
+    {
+        "duration": 4.401,
+        "start": 762.639,
+        "text": "way more energy with a clean panel than"
+    },
+    {
+        "duration": 3.36,
+        "start": 765.2,
+        "text": "one that's dirty. Not as much light gets"
+    },
+    {
+        "duration": 2.96,
+        "start": 767.04,
+        "text": "in if it's a dirty panel. It's pretty"
+    },
+    {
+        "duration": 4.0,
+        "start": 768.56,
+        "text": "much that simple. So, how much can you"
+    },
+    {
+        "duration": 5.2,
+        "start": 770.0,
+        "text": "make doing this? Well, Finn Models Lab"
+    },
+    {
+        "duration": 4.0,
+        "start": 772.56,
+        "text": "makes about $200,000 a year doing this."
+    },
+    {
+        "duration": 3.36,
+        "start": 775.2,
+        "text": "And there's even a case study from the"
+    },
+    {
+        "duration": 4.959,
+        "start": 776.56,
+        "text": "company PV Works where they clean an"
+    },
+    {
+        "duration": 5.04,
+        "start": 778.56,
+        "text": "entire 53 megawatt solar farm and they"
+    },
+    {
+        "duration": 4.081,
+        "start": 781.519,
+        "text": "made $46,000"
+    },
+    {
+        "duration": 3.84,
+        "start": 783.6,
+        "text": "in profit. So, that's just one farm"
+    },
+    {
+        "duration": 3.6,
+        "start": 785.6,
+        "text": "cleaning. So, yeah, you can make a ton"
+    },
+    {
+        "duration": 3.44,
+        "start": 787.44,
+        "text": "of money doing this as well. What's"
+    },
+    {
+        "duration": 4.319,
+        "start": 789.2,
+        "text": "happening, guys? In the editing process"
+    },
+    {
+        "duration": 4.88,
+        "start": 790.88,
+        "text": "of this video, and I have an opportunity"
+    },
+    {
+        "duration": 4.481,
+        "start": 793.519,
+        "text": "for a select group of people. So these"
+    },
+    {
+        "duration": 4.879,
+        "start": 795.76,
+        "text": "are people who are serious about growing"
+    },
+    {
+        "duration": 5.04,
+        "start": 798.0,
+        "text": "their personal brand on YouTube. So"
+    },
+    {
+        "duration": 4.961,
+        "start": 800.639,
+        "text": "basically we figured out recently how to"
+    },
+    {
+        "duration": 4.4,
+        "start": 803.04,
+        "text": "grow a personal brand and combine all"
+    },
+    {
+        "duration": 4.4,
+        "start": 805.6,
+        "text": "the upsides of a personal brand with the"
+    },
+    {
+        "duration": 4.639,
+        "start": 807.44,
+        "text": "upsides of automation, right? Using AI,"
+    },
+    {
+        "duration": 3.6,
+        "start": 810.0,
+        "text": "using things like this to basically grow"
+    },
+    {
+        "duration": 3.281,
+        "start": 812.079,
+        "text": "your personal brand 10 times faster,"
+    },
+    {
+        "duration": 3.359,
+        "start": 813.6,
+        "text": "which in the past used to take decades"
+    },
+    {
+        "duration": 2.96,
+        "start": 815.36,
+        "text": "to do and now you can do it"
+    },
+    {
+        "duration": 2.961,
+        "start": 816.959,
+        "text": "significantly faster. And you can do"
+    },
+    {
+        "duration": 2.639,
+        "start": 818.32,
+        "text": "this to get a better job. You know, we"
+    },
+    {
+        "duration": 2.159,
+        "start": 819.92,
+        "text": "work with beginners that just want to"
+    },
+    {
+        "duration": 2.56,
+        "start": 820.959,
+        "text": "get a better job with their personal"
+    },
+    {
+        "duration": 2.88,
+        "start": 822.079,
+        "text": "brand. You can do this to make money as"
+    },
+    {
+        "duration": 3.041,
+        "start": 823.519,
+        "text": "a side hustle. We work with a lot of"
+    },
+    {
+        "duration": 2.88,
+        "start": 824.959,
+        "text": "people like that. We can do this to make"
+    },
+    {
+        "duration": 3.04,
+        "start": 826.56,
+        "text": "more money. If you already have a side"
+    },
+    {
+        "duration": 3.12,
+        "start": 827.839,
+        "text": "hustle or a small business or if you're"
+    },
+    {
+        "duration": 3.44,
+        "start": 829.6,
+        "text": "already crushing it on YouTube, we can"
+    },
+    {
+        "duration": 3.521,
+        "start": 830.959,
+        "text": "help you crush it 10 times more. We've"
+    },
+    {
+        "duration": 3.28,
+        "start": 833.04,
+        "text": "worked with people like that as well. I"
+    },
+    {
+        "duration": 3.359,
+        "start": 834.48,
+        "text": "mean, I literally can show clients at"
+    },
+    {
+        "duration": 3.92,
+        "start": 836.32,
+        "text": "each level. People that we've gotten"
+    },
+    {
+        "duration": 4.961,
+        "start": 837.839,
+        "text": "from zero to over 10K, zero to like over"
+    },
+    {
+        "duration": 4.8,
+        "start": 840.24,
+        "text": "30K, uh, from like 1K per month all the"
+    },
+    {
+        "duration": 3.599,
+        "start": 842.8,
+        "text": "way up to 185K per month, from around"
+    },
+    {
+        "duration": 2.88,
+        "start": 845.04,
+        "text": "30K per month all the way up to over"
+    },
+    {
+        "duration": 3.521,
+        "start": 846.399,
+        "text": "500K per month. So, literally at every"
+    },
+    {
+        "duration": 3.68,
+        "start": 847.92,
+        "text": "single level, and it works for everyone"
+    },
+    {
+        "duration": 3.52,
+        "start": 849.92,
+        "text": "in every situation. With that being"
+    },
+    {
+        "duration": 3.44,
+        "start": 851.6,
+        "text": "said, we are only working with three to"
+    },
+    {
+        "duration": 4.399,
+        "start": 853.44,
+        "text": "five people and they have to be people"
+    },
+    {
+        "duration": 5.28,
+        "start": 855.04,
+        "text": "who are very serious, right? People who"
+    },
+    {
+        "duration": 3.841,
+        "start": 857.839,
+        "text": "are dedicated to making this work. So,"
+    },
+    {
+        "duration": 2.4,
+        "start": 860.32,
+        "text": "if you think you're that type of person,"
+    },
+    {
+        "duration": 2.88,
+        "start": 861.68,
+        "text": "go ahead and apply down in the"
+    },
+    {
+        "duration": 4.64,
+        "start": 862.72,
+        "text": "description and the pin comment below"
+    },
+    {
+        "duration": 5.04,
+        "start": 864.56,
+        "text": "and you can be part of our group of 35"
+    },
+    {
+        "duration": 2.64,
+        "start": 867.36,
+        "text": "that we help. So, see you there. Have a"
+    },
+    {
+        "duration": 2.32,
+        "start": 869.6,
+        "text": "good one."
+    },
+    {
+        "duration": 3.44,
+        "start": 870.0,
+        "text": ">> Now, the next one is kind of a service"
+    },
+    {
+        "duration": 3.84,
+        "start": 871.92,
+        "text": "business and that's basically just"
+    },
+    {
+        "duration": 4.56,
+        "start": 873.44,
+        "text": "helping people to get jobs, right? An"
+    },
+    {
+        "duration": 4.48,
+        "start": 875.76,
+        "text": "example of this would be Seth Jared. He"
+    },
+    {
+        "duration": 3.839,
+        "start": 878.0,
+        "text": "helps people get digital marketing jobs"
+    },
+    {
+        "duration": 3.12,
+        "start": 880.24,
+        "text": "specifically. And there's more and more"
+    },
+    {
+        "duration": 2.721,
+        "start": 881.839,
+        "text": "people popping up that do this. Now,"
+    },
+    {
+        "duration": 2.479,
+        "start": 883.36,
+        "text": "depending on how you do it, it could be"
+    },
+    {
+        "duration": 2.959,
+        "start": 884.56,
+        "text": "a service business where you actually"
+    },
+    {
+        "duration": 2.961,
+        "start": 885.839,
+        "text": "apply to the jobs for them. There's some"
+    },
+    {
+        "duration": 3.201,
+        "start": 887.519,
+        "text": "companies that do this. Or it could be"
+    },
+    {
+        "duration": 3.76,
+        "start": 888.8,
+        "text": "more of a consulting or coaching type"
+    },
+    {
+        "duration": 3.679,
+        "start": 890.72,
+        "text": "business or an info product business."
+    },
+    {
+        "duration": 3.36,
+        "start": 892.56,
+        "text": "But either way, more and more people are"
+    },
+    {
+        "duration": 3.761,
+        "start": 894.399,
+        "text": "doing this. And Seth is actually one of"
+    },
+    {
+        "duration": 4.64,
+        "start": 895.92,
+        "text": "my clients. And after 8 years of posting"
+    },
+    {
+        "duration": 4.479,
+        "start": 898.16,
+        "text": "on YouTube, he never had a single video"
+    },
+    {
+        "duration": 4.24,
+        "start": 900.56,
+        "text": "get to 100,000 views. And after working"
+    },
+    {
+        "duration": 4.88,
+        "start": 902.639,
+        "text": "with us, after just a few videos, he had"
+    },
+    {
+        "duration": 4.32,
+        "start": 904.8,
+        "text": "two videos get over 100,000 views almost"
+    },
+    {
+        "duration": 3.44,
+        "start": 907.519,
+        "text": "immediately. Also, book a call with us"
+    },
+    {
+        "duration": 3.04,
+        "start": 909.12,
+        "text": "if you're doing any of these and you're"
+    },
+    {
+        "duration": 2.961,
+        "start": 910.959,
+        "text": "interested in actually starting a"
+    },
+    {
+        "duration": 3.28,
+        "start": 912.16,
+        "text": "personal brand online so that you can"
+    },
+    {
+        "duration": 3.12,
+        "start": 913.92,
+        "text": "make far more money actually just"
+    },
+    {
+        "duration": 3.04,
+        "start": 915.44,
+        "text": "teaching other people how to do the same"
+    },
+    {
+        "duration": 2.96,
+        "start": 917.04,
+        "text": "thing. This will be a strategy session"
+    },
+    {
+        "duration": 2.88,
+        "start": 918.48,
+        "text": "where we talk about how you can do this"
+    },
+    {
+        "duration": 2.399,
+        "start": 920.0,
+        "text": "and see if we're a good fit to work"
+    },
+    {
+        "duration": 2.32,
+        "start": 921.36,
+        "text": "together. Book that down in the"
+    },
+    {
+        "duration": 2.721,
+        "start": 922.399,
+        "text": "description in the pin comment below."
+    },
+    {
+        "duration": 3.519,
+        "start": 923.68,
+        "text": "And check out a case study video on"
+    },
+    {
+        "duration": 5.399,
+        "start": 925.12,
+        "text": "exactly how we helped Seth by clicking"
+    },
+    {
+        "duration": 3.32,
+        "start": 927.199,
+        "text": "right here."
+    }
+]

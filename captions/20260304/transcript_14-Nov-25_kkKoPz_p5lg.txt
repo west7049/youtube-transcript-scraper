@@ -1,0 +1,1817 @@
+[
+    {
+        "duration": 3.121,
+        "start": 1.439,
+        "text": "Now, I've bought plenty of weld machines"
+    },
+    {
+        "duration": 3.12,
+        "start": 3.04,
+        "text": "over the years, and these are the five"
+    },
+    {
+        "duration": 4.64,
+        "start": 4.56,
+        "text": "things that I wish I knew before I"
+    },
+    {
+        "duration": 4.96,
+        "start": 6.16,
+        "text": "bought a single one. You might be asking"
+    },
+    {
+        "duration": 3.2,
+        "start": 9.2,
+        "text": "yourself, Austin, why are you flexing on"
+    },
+    {
+        "duration": 2.96,
+        "start": 11.12,
+        "text": "us so hard with all your welding"
+    },
+    {
+        "duration": 3.6,
+        "start": 12.4,
+        "text": "machines? And that's not what I'm trying"
+    },
+    {
+        "duration": 4.0,
+        "start": 14.08,
+        "text": "to do. Okay? What this has given me is"
+    },
+    {
+        "duration": 3.92,
+        "start": 16.0,
+        "text": "the opportunity to talk about welders"
+    },
+    {
+        "duration": 3.44,
+        "start": 18.08,
+        "text": "and the question that I get asked so"
+    },
+    {
+        "duration": 3.439,
+        "start": 19.92,
+        "text": "often, which is, \"What welder should I"
+    },
+    {
+        "duration": 3.759,
+        "start": 21.52,
+        "text": "get as my first welder?\" For me, I"
+    },
+    {
+        "duration": 3.76,
+        "start": 23.359,
+        "text": "bought a Lincoln Square Wave Tig 200"
+    },
+    {
+        "duration": 3.281,
+        "start": 25.279,
+        "text": "like maybe nine years ago. It was my"
+    },
+    {
+        "duration": 3.361,
+        "start": 27.119,
+        "text": "first welding machine. And I wanted it"
+    },
+    {
+        "duration": 4.08,
+        "start": 28.56,
+        "text": "because I wanted to TIG weld. I like the"
+    },
+    {
+        "duration": 3.599,
+        "start": 30.48,
+        "text": "AC/DC. It was a reliable machine. But"
+    },
+    {
+        "duration": 3.52,
+        "start": 32.64,
+        "text": "what I didn't realize is that I put"
+    },
+    {
+        "duration": 4.241,
+        "start": 34.079,
+        "text": "myself in a corner when it came to duty"
+    },
+    {
+        "duration": 3.52,
+        "start": 36.16,
+        "text": "cycle, welding bigger, thicker aluminum,"
+    },
+    {
+        "duration": 3.12,
+        "start": 38.32,
+        "text": "things that I want to do with different"
+    },
+    {
+        "duration": 3.199,
+        "start": 39.68,
+        "text": "processes, finding the consumables that"
+    },
+    {
+        "duration": 3.279,
+        "start": 41.44,
+        "text": "I needed. So that's what we're going to"
+    },
+    {
+        "duration": 3.68,
+        "start": 42.879,
+        "text": "cover in today's video. And the first"
+    },
+    {
+        "duration": 3.441,
+        "start": 44.719,
+        "text": "question that I always ask when they ask"
+    },
+    {
+        "duration": 3.52,
+        "start": 46.559,
+        "text": "me what welder should they get is, well,"
+    },
+    {
+        "duration": 4.0,
+        "start": 48.16,
+        "text": "what are you trying to weld? Now, that"
+    },
+    {
+        "duration": 3.521,
+        "start": 50.079,
+        "text": "may seem like a simple question, but in"
+    },
+    {
+        "duration": 2.8,
+        "start": 52.16,
+        "text": "my experience, most people really don't"
+    },
+    {
+        "duration": 3.04,
+        "start": 53.6,
+        "text": "know what route they want to take. If"
+    },
+    {
+        "duration": 2.96,
+        "start": 54.96,
+        "text": "you can figure that out sooner than"
+    },
+    {
+        "duration": 2.96,
+        "start": 56.64,
+        "text": "later, you could probably save yourself"
+    },
+    {
+        "duration": 3.119,
+        "start": 57.92,
+        "text": "a lot of money. I'll first off start by"
+    },
+    {
+        "duration": 2.88,
+        "start": 59.6,
+        "text": "saying that it doesn't matter really the"
+    },
+    {
+        "duration": 2.961,
+        "start": 61.039,
+        "text": "brand that you're going to go with. They"
+    },
+    {
+        "duration": 3.039,
+        "start": 62.48,
+        "text": "all have different size, levels, and"
+    },
+    {
+        "duration": 2.96,
+        "start": 64.0,
+        "text": "tiers of welding machines that you got"
+    },
+    {
+        "duration": 3.041,
+        "start": 65.519,
+        "text": "to shop through. But if you can think"
+    },
+    {
+        "duration": 3.04,
+        "start": 66.96,
+        "text": "about one process that you want to do,"
+    },
+    {
+        "duration": 3.28,
+        "start": 68.56,
+        "text": "you might could save some money. Like"
+    },
+    {
+        "duration": 3.2,
+        "start": 70.0,
+        "text": "this weld pack here is just a flux core"
+    },
+    {
+        "duration": 2.8,
+        "start": 71.84,
+        "text": "machine, and it's the cheapest one on"
+    },
+    {
+        "duration": 3.279,
+        "start": 73.2,
+        "text": "the table. You could do so much with"
+    },
+    {
+        "duration": 3.519,
+        "start": 74.64,
+        "text": "this little welder machine. It is still"
+    },
+    {
+        "duration": 2.96,
+        "start": 76.479,
+        "text": "a handy little welder, but if you want a"
+    },
+    {
+        "duration": 3.201,
+        "start": 78.159,
+        "text": "couple more processes, you're going to"
+    },
+    {
+        "duration": 4.32,
+        "start": 79.439,
+        "text": "end up paying for it. Not too much. This"
+    },
+    {
+        "duration": 4.0,
+        "start": 81.36,
+        "text": "little Sprinter 180 SI gives us some TIG"
+    },
+    {
+        "duration": 3.281,
+        "start": 83.759,
+        "text": "and stick and the price is going to end"
+    },
+    {
+        "duration": 3.28,
+        "start": 85.36,
+        "text": "up going up. But what I recommend for"
+    },
+    {
+        "duration": 3.52,
+        "start": 87.04,
+        "text": "anyone who really doesn't know what they"
+    },
+    {
+        "duration": 3.839,
+        "start": 88.64,
+        "text": "want to do, I go with a multipprocess"
+    },
+    {
+        "duration": 3.519,
+        "start": 90.56,
+        "text": "machine. Now, that seems obvious, right?"
+    },
+    {
+        "duration": 3.6,
+        "start": 92.479,
+        "text": "But there's a budget issue and the size"
+    },
+    {
+        "duration": 3.521,
+        "start": 94.079,
+        "text": "on this Rebel 285 is a pretty big"
+    },
+    {
+        "duration": 3.521,
+        "start": 96.079,
+        "text": "machine and that's what I got it for was"
+    },
+    {
+        "duration": 3.519,
+        "start": 97.6,
+        "text": "for some power and some duty cycle. They"
+    },
+    {
+        "duration": 2.559,
+        "start": 99.6,
+        "text": "make some smaller versions of that and"
+    },
+    {
+        "duration": 2.481,
+        "start": 101.119,
+        "text": "don't worry, we're going to talk about"
+    },
+    {
+        "duration": 3.201,
+        "start": 102.159,
+        "text": "that a little bit later on. But a"
+    },
+    {
+        "duration": 4.159,
+        "start": 103.6,
+        "text": "multiprocess machine will do your TG,"
+    },
+    {
+        "duration": 5.2,
+        "start": 105.36,
+        "text": "your stick, your MIG, your flux core. It"
+    },
+    {
+        "duration": 4.881,
+        "start": 107.759,
+        "text": "doesn't AC aluminum, but it will spool"
+    },
+    {
+        "duration": 3.76,
+        "start": 110.56,
+        "text": "gun aluminum. So, you still have a way"
+    },
+    {
+        "duration": 3.28,
+        "start": 112.64,
+        "text": "of getting anything done. But what I"
+    },
+    {
+        "duration": 3.04,
+        "start": 114.32,
+        "text": "found with the multipprocess machine is"
+    },
+    {
+        "duration": 2.879,
+        "start": 115.92,
+        "text": "while it's good at a lot of things, it's"
+    },
+    {
+        "duration": 3.119,
+        "start": 117.36,
+        "text": "not great at anything. And that's where"
+    },
+    {
+        "duration": 3.201,
+        "start": 118.799,
+        "text": "we lead into the specialty machines."
+    },
+    {
+        "duration": 3.201,
+        "start": 120.479,
+        "text": "Now, this is just a TIG and stick"
+    },
+    {
+        "duration": 3.439,
+        "start": 122.0,
+        "text": "machine that's a lot like this machine"
+    },
+    {
+        "duration": 3.6,
+        "start": 123.68,
+        "text": "here, but it's twice the price. A lot"
+    },
+    {
+        "duration": 3.44,
+        "start": 125.439,
+        "text": "like a multiprocess machine. Why is"
+    },
+    {
+        "duration": 3.679,
+        "start": 127.28,
+        "text": "that? Well, if you go into the settings"
+    },
+    {
+        "duration": 3.521,
+        "start": 128.879,
+        "text": "on these things, if you open up AC TIG"
+    },
+    {
+        "duration": 3.121,
+        "start": 130.959,
+        "text": "welding, you're going to see so many"
+    },
+    {
+        "duration": 3.44,
+        "start": 132.4,
+        "text": "different settings, so many different"
+    },
+    {
+        "duration": 3.84,
+        "start": 134.08,
+        "text": "variables that you can adjust so that"
+    },
+    {
+        "duration": 3.759,
+        "start": 135.84,
+        "text": "you can really fine-tune the machine to"
+    },
+    {
+        "duration": 3.44,
+        "start": 137.92,
+        "text": "the actual person and to what you're"
+    },
+    {
+        "duration": 3.28,
+        "start": 139.599,
+        "text": "welding on. And that just adds a whole"
+    },
+    {
+        "duration": 3.12,
+        "start": 141.36,
+        "text": "lot of value to the welder. So, that's"
+    },
+    {
+        "duration": 3.281,
+        "start": 142.879,
+        "text": "why they're a little bit more expensive."
+    },
+    {
+        "duration": 3.44,
+        "start": 144.48,
+        "text": "Now, if you want to even add even more"
+    },
+    {
+        "duration": 4.159,
+        "start": 146.16,
+        "text": "power, like adding a generator to the"
+    },
+    {
+        "duration": 3.679,
+        "start": 147.92,
+        "text": "back of it, like the Ranger 330 MPX out"
+    },
+    {
+        "duration": 3.601,
+        "start": 150.319,
+        "text": "there, you're going to see that it has"
+    },
+    {
+        "duration": 4.64,
+        "start": 151.599,
+        "text": "multiple processes. It runs off its own"
+    },
+    {
+        "duration": 3.84,
+        "start": 153.92,
+        "text": "power. Hell, I even power my house when"
+    },
+    {
+        "duration": 3.521,
+        "start": 156.239,
+        "text": "the power goes out with that machine."
+    },
+    {
+        "duration": 3.759,
+        "start": 157.76,
+        "text": "So, you can see why the price again is"
+    },
+    {
+        "duration": 3.68,
+        "start": 159.76,
+        "text": "going to go up for all the features and"
+    },
+    {
+        "duration": 4.08,
+        "start": 161.519,
+        "text": "all the functions that it has. So, keep"
+    },
+    {
+        "duration": 3.92,
+        "start": 163.44,
+        "text": "that in mind. If you add all the"
+    },
+    {
+        "duration": 3.121,
+        "start": 165.599,
+        "text": "processes or all the bells and whistles,"
+    },
+    {
+        "duration": 3.36,
+        "start": 167.36,
+        "text": "you're going to pay a premium. Whereas,"
+    },
+    {
+        "duration": 4.64,
+        "start": 168.72,
+        "text": "if you can get the job done with less"
+    },
+    {
+        "duration": 3.599,
+        "start": 170.72,
+        "text": "processes and less features, then you're"
+    },
+    {
+        "duration": 2.72,
+        "start": 173.36,
+        "text": "probably going to be sitting a little"
+    },
+    {
+        "duration": 3.441,
+        "start": 174.319,
+        "text": "bit pretty, at least to start with."
+    },
+    {
+        "duration": 3.04,
+        "start": 176.08,
+        "text": "Let's just say that you got your machine"
+    },
+    {
+        "duration": 3.119,
+        "start": 177.76,
+        "text": "picked out now, but you're a little"
+    },
+    {
+        "duration": 3.119,
+        "start": 179.12,
+        "text": "hesitant to pull the trigger because you"
+    },
+    {
+        "duration": 2.801,
+        "start": 180.879,
+        "text": "don't know if you have the right power"
+    },
+    {
+        "duration": 2.72,
+        "start": 182.239,
+        "text": "requirements in order to power it"
+    },
+    {
+        "duration": 3.12,
+        "start": 183.68,
+        "text": "properly, which I think is a pretty"
+    },
+    {
+        "duration": 3.601,
+        "start": 184.959,
+        "text": "legit concern. It's one thing to be able"
+    },
+    {
+        "duration": 3.2,
+        "start": 186.8,
+        "text": "to plug it in and turn it on. It's a"
+    },
+    {
+        "duration": 3.2,
+        "start": 188.56,
+        "text": "whole another thing to be able to weld"
+    },
+    {
+        "duration": 3.12,
+        "start": 190.0,
+        "text": "with it like you want to be. I want to"
+    },
+    {
+        "duration": 2.88,
+        "start": 191.76,
+        "text": "start off by saying I'm not an"
+    },
+    {
+        "duration": 3.44,
+        "start": 193.12,
+        "text": "electrician by any sense of the"
+    },
+    {
+        "duration": 3.44,
+        "start": 194.64,
+        "text": "imagination, but I do know what plugs"
+    },
+    {
+        "duration": 3.28,
+        "start": 196.56,
+        "text": "plug into what, and I do know what you"
+    },
+    {
+        "duration": 3.28,
+        "start": 198.08,
+        "text": "get when you get it plugged in. Starting"
+    },
+    {
+        "duration": 3.6,
+        "start": 199.84,
+        "text": "off with just your single voltage"
+    },
+    {
+        "duration": 4.08,
+        "start": 201.36,
+        "text": "machine, this weld pack here will just"
+    },
+    {
+        "duration": 3.76,
+        "start": 203.44,
+        "text": "work off of 110 power. That's the only"
+    },
+    {
+        "duration": 3.84,
+        "start": 205.44,
+        "text": "power it'll plug into. It won't go into"
+    },
+    {
+        "duration": 3.92,
+        "start": 207.2,
+        "text": "a bigger plug. And right next to that"
+    },
+    {
+        "duration": 3.519,
+        "start": 209.28,
+        "text": "little voltage, it'll say the max"
+    },
+    {
+        "duration": 3.759,
+        "start": 211.12,
+        "text": "amperage that it'll end up pulling off"
+    },
+    {
+        "duration": 4.561,
+        "start": 212.799,
+        "text": "of its input power. So, you need to"
+    },
+    {
+        "duration": 4.241,
+        "start": 214.879,
+        "text": "adjust your home shop, your garage, your"
+    },
+    {
+        "duration": 3.92,
+        "start": 217.36,
+        "text": "breaker box, whatever it is, your"
+    },
+    {
+        "duration": 3.52,
+        "start": 219.12,
+        "text": "electrical requirements to match that"
+    },
+    {
+        "duration": 3.28,
+        "start": 221.28,
+        "text": "max one. At least that's what I"
+    },
+    {
+        "duration": 3.76,
+        "start": 222.64,
+        "text": "recommend. This machine here is also"
+    },
+    {
+        "duration": 3.52,
+        "start": 224.56,
+        "text": "single voltage, but it doesn't run off"
+    },
+    {
+        "duration": 3.36,
+        "start": 226.4,
+        "text": "the little plug. It runs off the big"
+    },
+    {
+        "duration": 3.6,
+        "start": 228.08,
+        "text": "plug. And they don't mix. These don't"
+    },
+    {
+        "duration": 4.479,
+        "start": 229.76,
+        "text": "mingle on these two machines right here."
+    },
+    {
+        "duration": 5.279,
+        "start": 231.68,
+        "text": "This will only run off of a bigger power"
+    },
+    {
+        "duration": 4.801,
+        "start": 234.239,
+        "text": "source. So, it needs that 220 power. And"
+    },
+    {
+        "duration": 5.521,
+        "start": 236.959,
+        "text": "if we look right here, we can see that"
+    },
+    {
+        "duration": 4.96,
+        "start": 239.04,
+        "text": "it says 240 volts, max 48 amps. If you"
+    },
+    {
+        "duration": 3.52,
+        "start": 242.48,
+        "text": "look at my breaker box back there, I've"
+    },
+    {
+        "duration": 3.68,
+        "start": 244.0,
+        "text": "got a 50 amp breaker for machines just"
+    },
+    {
+        "duration": 3.599,
+        "start": 246.0,
+        "text": "like this one. Now, if we look at this"
+    },
+    {
+        "duration": 3.919,
+        "start": 247.68,
+        "text": "machine in the middle here, this is a"
+    },
+    {
+        "duration": 4.241,
+        "start": 249.599,
+        "text": "dual voltage machine. It's basically"
+    },
+    {
+        "duration": 5.521,
+        "start": 251.599,
+        "text": "able to run off that 220, that bigger"
+    },
+    {
+        "duration": 5.04,
+        "start": 253.84,
+        "text": "power, and plug a pigtail up to it, and"
+    },
+    {
+        "duration": 3.519,
+        "start": 257.12,
+        "text": "you can get that 110 power. This"
+    },
+    {
+        "duration": 3.28,
+        "start": 258.88,
+        "text": "machine's capable of that. But just know"
+    },
+    {
+        "duration": 3.521,
+        "start": 260.639,
+        "text": "that if you're running a dual voltage"
+    },
+    {
+        "duration": 3.28,
+        "start": 262.16,
+        "text": "machine and you're plugged into 220,"
+    },
+    {
+        "duration": 2.64,
+        "start": 264.16,
+        "text": "you're going to get the most amperage"
+    },
+    {
+        "duration": 3.52,
+        "start": 265.44,
+        "text": "out of it. Now, if you're plugged into"
+    },
+    {
+        "duration": 3.679,
+        "start": 266.8,
+        "text": "the 110 power, the little plug, you're"
+    },
+    {
+        "duration": 3.2,
+        "start": 268.96,
+        "text": "not going to get all the beans that it"
+    },
+    {
+        "duration": 3.361,
+        "start": 270.479,
+        "text": "can probably produce. It's going to stop"
+    },
+    {
+        "duration": 3.2,
+        "start": 272.16,
+        "text": "you. This machine's a special case. If"
+    },
+    {
+        "duration": 3.2,
+        "start": 273.84,
+        "text": "you hook the batteries up while it's"
+    },
+    {
+        "duration": 3.119,
+        "start": 275.36,
+        "text": "plugged in, it'll draw off of both and"
+    },
+    {
+        "duration": 3.36,
+        "start": 277.04,
+        "text": "kind of relieve some of the breakers."
+    },
+    {
+        "duration": 4.321,
+        "start": 278.479,
+        "text": "But what you need to know is that the"
+    },
+    {
+        "duration": 4.56,
+        "start": 280.4,
+        "text": "picture on the side or on the back will"
+    },
+    {
+        "duration": 4.0,
+        "start": 282.8,
+        "text": "tell you what it plugs into and the"
+    },
+    {
+        "duration": 3.44,
+        "start": 284.96,
+        "text": "breaker size that it at least recommends"
+    },
+    {
+        "duration": 3.44,
+        "start": 286.8,
+        "text": "you should have. And depending on the"
+    },
+    {
+        "duration": 3.28,
+        "start": 288.4,
+        "text": "plug that you use, the size and the"
+    },
+    {
+        "duration": 3.519,
+        "start": 290.24,
+        "text": "power that you're able to turn up the"
+    },
+    {
+        "duration": 4.079,
+        "start": 291.68,
+        "text": "amperage to, that'll depend the duty"
+    },
+    {
+        "duration": 3.841,
+        "start": 293.759,
+        "text": "cycle that you get. Duty cycle breaks"
+    },
+    {
+        "duration": 3.681,
+        "start": 295.759,
+        "text": "down to a really simple terms is"
+    },
+    {
+        "duration": 4.0,
+        "start": 297.6,
+        "text": "whatever amperage you choose to select,"
+    },
+    {
+        "duration": 4.08,
+        "start": 299.44,
+        "text": "it will run for that amount of time in a"
+    },
+    {
+        "duration": 4.4,
+        "start": 301.6,
+        "text": "10-minute span. For example, if I look"
+    },
+    {
+        "duration": 4.48,
+        "start": 303.52,
+        "text": "at this machine here and I look at 60%"
+    },
+    {
+        "duration": 5.68,
+        "start": 306.0,
+        "text": "duty cycle, which is 6 minutes out of"
+    },
+    {
+        "duration": 6.96,
+        "start": 308.0,
+        "text": "the 10, I can run 275 amps. I can run"
+    },
+    {
+        "duration": 5.6,
+        "start": 311.68,
+        "text": "275 amps for 6 minutes straight before"
+    },
+    {
+        "duration": 6.0,
+        "start": 314.96,
+        "text": "this one will hit duty cycle. If I look"
+    },
+    {
+        "duration": 6.56,
+        "start": 317.28,
+        "text": "at the 60% on this one, this one says 64"
+    },
+    {
+        "duration": 5.2,
+        "start": 320.96,
+        "text": "amps. So, I can run 64 amps for 6"
+    },
+    {
+        "duration": 4.079,
+        "start": 323.84,
+        "text": "minutes. If we want to get a 100% duty"
+    },
+    {
+        "duration": 4.24,
+        "start": 326.16,
+        "text": "cycle out of our machines, all we have"
+    },
+    {
+        "duration": 5.681,
+        "start": 327.919,
+        "text": "to do is not run so high of a voltage or"
+    },
+    {
+        "duration": 5.84,
+        "start": 330.4,
+        "text": "amperage. Instead of 275, I can run 200"
+    },
+    {
+        "duration": 4.319,
+        "start": 333.6,
+        "text": "amps and I can get the 100% and weld"
+    },
+    {
+        "duration": 2.88,
+        "start": 336.24,
+        "text": "non-stop with this sucker. If you're"
+    },
+    {
+        "duration": 2.881,
+        "start": 337.919,
+        "text": "just welding a little bit here and"
+    },
+    {
+        "duration": 3.76,
+        "start": 339.12,
+        "text": "there, you don't need a really high duty"
+    },
+    {
+        "duration": 3.52,
+        "start": 340.8,
+        "text": "cycle or run those higher amperages or"
+    },
+    {
+        "duration": 3.28,
+        "start": 342.88,
+        "text": "run those bigger plugs. But if you're"
+    },
+    {
+        "duration": 3.84,
+        "start": 344.32,
+        "text": "welding all day, you need some serious"
+    },
+    {
+        "duration": 3.52,
+        "start": 346.16,
+        "text": "power. I don't really know the most"
+    },
+    {
+        "duration": 3.039,
+        "start": 348.16,
+        "text": "about electricity, but I can tell you"
+    },
+    {
+        "duration": 3.04,
+        "start": 349.68,
+        "text": "what you need when it comes to a welding"
+    },
+    {
+        "duration": 2.961,
+        "start": 351.199,
+        "text": "machine. And I can also tell you that"
+    },
+    {
+        "duration": 2.72,
+        "start": 352.72,
+        "text": "you need a little bit more theory under"
+    },
+    {
+        "duration": 2.879,
+        "start": 354.16,
+        "text": "your belt. And our friends at the"
+    },
+    {
+        "duration": 3.84,
+        "start": 355.44,
+        "text": "American Welding Program, they've got"
+    },
+    {
+        "duration": 4.321,
+        "start": 357.039,
+        "text": "that figured out. TIG, stick, plasma"
+    },
+    {
+        "duration": 3.6,
+        "start": 359.28,
+        "text": "cutting, oxifuel. Whether you're just an"
+    },
+    {
+        "duration": 3.2,
+        "start": 361.36,
+        "text": "individual that's just trying to brush"
+    },
+    {
+        "duration": 3.36,
+        "start": 362.88,
+        "text": "up on some knowledge, or maybe you're an"
+    },
+    {
+        "duration": 3.68,
+        "start": 364.56,
+        "text": "instructor or a school program looking"
+    },
+    {
+        "duration": 4.16,
+        "start": 366.24,
+        "text": "for something for your entire class,"
+    },
+    {
+        "duration": 4.239,
+        "start": 368.24,
+        "text": "quizzes, tests, powerpoints, you'll have"
+    },
+    {
+        "duration": 3.76,
+        "start": 370.4,
+        "text": "videos, all really help bring in the"
+    },
+    {
+        "duration": 3.44,
+        "start": 372.479,
+        "text": "theory to the side of the stuff that we"
+    },
+    {
+        "duration": 3.12,
+        "start": 374.16,
+        "text": "teach here on the channel. Now, I know"
+    },
+    {
+        "duration": 2.961,
+        "start": 375.919,
+        "text": "we talked a little bit about the bells"
+    },
+    {
+        "duration": 3.199,
+        "start": 377.28,
+        "text": "and whistles of this machine compared to"
+    },
+    {
+        "duration": 3.92,
+        "start": 378.88,
+        "text": "this machine. They're both TIG and stick"
+    },
+    {
+        "duration": 4.881,
+        "start": 380.479,
+        "text": "machines. As far as performance-wise,"
+    },
+    {
+        "duration": 4.399,
+        "start": 382.8,
+        "text": "this machine is that 100 amps at 100%"
+    },
+    {
+        "duration": 4.16,
+        "start": 385.36,
+        "text": "duty cycle, while this one is 200 amps"
+    },
+    {
+        "duration": 3.84,
+        "start": 387.199,
+        "text": "at 100% duty cycle. So obviously this"
+    },
+    {
+        "duration": 3.519,
+        "start": 389.52,
+        "text": "one's going to outperform it, but this"
+    },
+    {
+        "duration": 3.44,
+        "start": 391.039,
+        "text": "one is the size of a purse. So what are"
+    },
+    {
+        "duration": 3.361,
+        "start": 393.039,
+        "text": "you going to complain? This one's way"
+    },
+    {
+        "duration": 3.28,
+        "start": 394.479,
+        "text": "more portable than this one. The next"
+    },
+    {
+        "duration": 3.2,
+        "start": 396.4,
+        "text": "thing we got to find out is when we"
+    },
+    {
+        "duration": 3.921,
+        "start": 397.759,
+        "text": "power these two things on. I've only got"
+    },
+    {
+        "duration": 3.439,
+        "start": 399.6,
+        "text": "this machine plugged into the 110 power."
+    },
+    {
+        "duration": 3.519,
+        "start": 401.68,
+        "text": "So you can see we're only going to get"
+    },
+    {
+        "duration": 4.481,
+        "start": 403.039,
+        "text": "110 amps. Whereas on this machine, when"
+    },
+    {
+        "duration": 4.641,
+        "start": 405.199,
+        "text": "I'm plugged in to 110 power, I can get"
+    },
+    {
+        "duration": 4.959,
+        "start": 407.52,
+        "text": "125 amps. And if we look, this one"
+    },
+    {
+        "duration": 4.16,
+        "start": 409.84,
+        "text": "doesn't have that AC TIG machine. So"
+    },
+    {
+        "duration": 3.521,
+        "start": 412.479,
+        "text": "it's not going to be able to really TIG"
+    },
+    {
+        "duration": 4.16,
+        "start": 414.0,
+        "text": "weld aluminum worth a dang. But it does"
+    },
+    {
+        "duration": 4.4,
+        "start": 416.0,
+        "text": "have lift and high frequency, same as"
+    },
+    {
+        "duration": 4.4,
+        "start": 418.16,
+        "text": "this one. And we can even dabble when we"
+    },
+    {
+        "duration": 4.72,
+        "start": 420.4,
+        "text": "get into our pulse settings. And it it"
+    },
+    {
+        "duration": 4.24,
+        "start": 422.56,
+        "text": "has a pretty high pulse percentage here."
+    },
+    {
+        "duration": 3.84,
+        "start": 425.12,
+        "text": "But whereas this one, I can change my"
+    },
+    {
+        "duration": 4.08,
+        "start": 426.8,
+        "text": "pulse frequency. I can change the time"
+    },
+    {
+        "duration": 4.079,
+        "start": 428.96,
+        "text": "spent on either side of the waveform. I"
+    },
+    {
+        "duration": 4.0,
+        "start": 430.88,
+        "text": "can change the waveform size. I can do"
+    },
+    {
+        "duration": 4.16,
+        "start": 433.039,
+        "text": "so many different adjustments on this."
+    },
+    {
+        "duration": 4.719,
+        "start": 434.88,
+        "text": "Same thing when I switch over to stick"
+    },
+    {
+        "duration": 4.321,
+        "start": 437.199,
+        "text": "weld. I can AC stick weld on this one,"
+    },
+    {
+        "duration": 3.921,
+        "start": 439.599,
+        "text": "which is kind of crazy. Whereas I can"
+    },
+    {
+        "duration": 4.0,
+        "start": 441.52,
+        "text": "only select between standard and 6010"
+    },
+    {
+        "duration": 3.44,
+        "start": 443.52,
+        "text": "mode on this little machine. Even that"
+    },
+    {
+        "duration": 3.44,
+        "start": 445.52,
+        "text": "is still something to consider because"
+    },
+    {
+        "duration": 3.92,
+        "start": 446.96,
+        "text": "some machines will say they'll run 6010"
+    },
+    {
+        "duration": 3.76,
+        "start": 448.96,
+        "text": "and this one does and I say it will but"
+    },
+    {
+        "duration": 3.28,
+        "start": 450.88,
+        "text": "it doesn't really push on like an open"
+    },
+    {
+        "duration": 3.599,
+        "start": 452.72,
+        "text": "route. So if you're looking to do open"
+    },
+    {
+        "duration": 3.759,
+        "start": 454.16,
+        "text": "route 6010s, this one may not have"
+    },
+    {
+        "duration": 3.121,
+        "start": 456.319,
+        "text": "enough power for you. It's something"
+    },
+    {
+        "duration": 3.521,
+        "start": 457.919,
+        "text": "about some little inverters, some"
+    },
+    {
+        "duration": 4.0,
+        "start": 459.44,
+        "text": "machines, and that's all brands. They"
+    },
+    {
+        "duration": 4.159,
+        "start": 461.44,
+        "text": "lack that open circuit voltage in order"
+    },
+    {
+        "duration": 4.4,
+        "start": 463.44,
+        "text": "to run a rod like that. This one's going"
+    },
+    {
+        "duration": 4.72,
+        "start": 465.599,
+        "text": "to cost you double than this one, but"
+    },
+    {
+        "duration": 4.56,
+        "start": 467.84,
+        "text": "this one powers about double and does a"
+    },
+    {
+        "duration": 3.921,
+        "start": 470.319,
+        "text": "little bit double. So it depends on what"
+    },
+    {
+        "duration": 3.6,
+        "start": 472.4,
+        "text": "you're doing. I'd say more times than"
+    },
+    {
+        "duration": 4.239,
+        "start": 474.24,
+        "text": "not, I'm running this little sprinter"
+    },
+    {
+        "duration": 4.16,
+        "start": 476.0,
+        "text": "for most of my steel alloys just for how"
+    },
+    {
+        "duration": 3.601,
+        "start": 478.479,
+        "text": "quick and easy it is to pull around. But"
+    },
+    {
+        "duration": 4.0,
+        "start": 480.16,
+        "text": "when things get really technical, we're"
+    },
+    {
+        "duration": 4.64,
+        "start": 482.08,
+        "text": "hitting the old stallion. The next thing"
+    },
+    {
+        "duration": 4.64,
+        "start": 484.16,
+        "text": "we got to know is, can we even afford to"
+    },
+    {
+        "duration": 4.4,
+        "start": 486.72,
+        "text": "use the equipment or afford to buy it?"
+    },
+    {
+        "duration": 4.079,
+        "start": 488.8,
+        "text": "And I always say the same thing is wants"
+    },
+    {
+        "duration": 3.68,
+        "start": 491.12,
+        "text": "versus needs. I think my dad instilled"
+    },
+    {
+        "duration": 3.76,
+        "start": 492.879,
+        "text": "that into me is you always get what you"
+    },
+    {
+        "duration": 3.6,
+        "start": 494.8,
+        "text": "need before you want. With this hobby,"
+    },
+    {
+        "duration": 3.68,
+        "start": 496.639,
+        "text": "what's nice about it is it'll make you"
+    },
+    {
+        "duration": 3.44,
+        "start": 498.4,
+        "text": "money. Unlike buying a boat or buying a"
+    },
+    {
+        "duration": 3.121,
+        "start": 500.319,
+        "text": "side by side that's only going to cost"
+    },
+    {
+        "duration": 2.96,
+        "start": 501.84,
+        "text": "you money, this hobby, what you need is"
+    },
+    {
+        "duration": 3.28,
+        "start": 503.44,
+        "text": "eventually going to pay for what you"
+    },
+    {
+        "duration": 4.239,
+        "start": 504.8,
+        "text": "wanted in the first place. Get what you"
+    },
+    {
+        "duration": 4.319,
+        "start": 506.72,
+        "text": "need. See if you can spend a little bit"
+    },
+    {
+        "duration": 4.641,
+        "start": 509.039,
+        "text": "more for a little bit extra as far as"
+    },
+    {
+        "duration": 4.081,
+        "start": 511.039,
+        "text": "power, duty cycle, and processes maybe."
+    },
+    {
+        "duration": 3.12,
+        "start": 513.68,
+        "text": "So, you don't put yourself in a corner"
+    },
+    {
+        "duration": 3.44,
+        "start": 515.12,
+        "text": "like I did with my very first welding"
+    },
+    {
+        "duration": 4.159,
+        "start": 516.8,
+        "text": "machine and I ended up buying that"
+    },
+    {
+        "duration": 4.159,
+        "start": 518.56,
+        "text": "multiprocess welder afterwards. Anyway,"
+    },
+    {
+        "duration": 3.761,
+        "start": 520.959,
+        "text": "does come down to are you one of those"
+    },
+    {
+        "duration": 3.68,
+        "start": 522.719,
+        "text": "guys or gals that's going to weld once a"
+    },
+    {
+        "duration": 3.04,
+        "start": 524.72,
+        "text": "week or once a month or a few times a"
+    },
+    {
+        "duration": 3.201,
+        "start": 526.399,
+        "text": "month? Are you going to be someone who's"
+    },
+    {
+        "duration": 2.96,
+        "start": 527.76,
+        "text": "going to be welding every single day?"
+    },
+    {
+        "duration": 3.12,
+        "start": 529.6,
+        "text": "Now, let's talk about one of those"
+    },
+    {
+        "duration": 4.0,
+        "start": 530.72,
+        "text": "hidden costs, and that's consumables."
+    },
+    {
+        "duration": 4.08,
+        "start": 532.72,
+        "text": "This is your welding wire, your contact"
+    },
+    {
+        "duration": 4.0,
+        "start": 534.72,
+        "text": "tips, your tungsten electros, gas"
+    },
+    {
+        "duration": 3.68,
+        "start": 536.8,
+        "text": "lenses, all these different variables"
+    },
+    {
+        "duration": 3.36,
+        "start": 538.72,
+        "text": "that you end up needing and get"
+    },
+    {
+        "duration": 3.359,
+        "start": 540.48,
+        "text": "consumed. There's no light at the end of"
+    },
+    {
+        "duration": 3.439,
+        "start": 542.08,
+        "text": "the tunnel is just constantly buying"
+    },
+    {
+        "duration": 3.44,
+        "start": 543.839,
+        "text": "stuff, buying stuff, and burning it up."
+    },
+    {
+        "duration": 3.521,
+        "start": 545.519,
+        "text": "That's just a part of the whole journey"
+    },
+    {
+        "duration": 3.361,
+        "start": 547.279,
+        "text": "here. Consumables are meant to be"
+    },
+    {
+        "duration": 4.08,
+        "start": 549.04,
+        "text": "consumed, but remember, we're trying to"
+    },
+    {
+        "duration": 4.639,
+        "start": 550.64,
+        "text": "also make a buck on this hobby of ours."
+    },
+    {
+        "duration": 4.0,
+        "start": 553.12,
+        "text": "So, put money in with consumables to get"
+    },
+    {
+        "duration": 3.441,
+        "start": 555.279,
+        "text": "money to come out. So, just keep that in"
+    },
+    {
+        "duration": 3.12,
+        "start": 557.12,
+        "text": "mind because this stuff can really start"
+    },
+    {
+        "duration": 3.119,
+        "start": 558.72,
+        "text": "to add up, especially if you have one of"
+    },
+    {
+        "duration": 2.88,
+        "start": 560.24,
+        "text": "those multiprocess machines where you"
+    },
+    {
+        "duration": 2.881,
+        "start": 561.839,
+        "text": "need multiple different types of"
+    },
+    {
+        "duration": 3.36,
+        "start": 563.12,
+        "text": "consumables. That drawer right there"
+    },
+    {
+        "duration": 3.36,
+        "start": 564.72,
+        "text": "alone is going to cost more than that"
+    },
+    {
+        "duration": 4.24,
+        "start": 566.48,
+        "text": "Sprinter. And not to mention the welding"
+    },
+    {
+        "duration": 4.24,
+        "start": 568.08,
+        "text": "gas that you need for MIG or TIG or"
+    },
+    {
+        "duration": 2.72,
+        "start": 570.72,
+        "text": "maybe you're doing some oxy fuel welding"
+    },
+    {
+        "duration": 2.8,
+        "start": 572.32,
+        "text": "and you're going to need a couple torch"
+    },
+    {
+        "duration": 2.959,
+        "start": 573.44,
+        "text": "bottles. If you want to be a baller on a"
+    },
+    {
+        "duration": 3.839,
+        "start": 575.12,
+        "text": "budget, I'll give you a little bit of"
+    },
+    {
+        "duration": 4.401,
+        "start": 576.399,
+        "text": "advice. The safest route is to find the"
+    },
+    {
+        "duration": 4.241,
+        "start": 578.959,
+        "text": "manufacturer of the machine that you're"
+    },
+    {
+        "duration": 4.08,
+        "start": 580.8,
+        "text": "buying consumables for and go buy it"
+    },
+    {
+        "duration": 3.36,
+        "start": 583.2,
+        "text": "from them off their website or through"
+    },
+    {
+        "duration": 3.519,
+        "start": 584.88,
+        "text": "their distributors. Usually, it's a bit"
+    },
+    {
+        "duration": 3.6,
+        "start": 586.56,
+        "text": "more expensive, especially when you"
+    },
+    {
+        "duration": 3.921,
+        "start": 588.399,
+        "text": "start turning to Amazon for your"
+    },
+    {
+        "duration": 6.16,
+        "start": 590.16,
+        "text": "solution. What you'll learn is the"
+    },
+    {
+        "duration": 5.36,
+        "start": 592.32,
+        "text": "quality and the consistency that is good"
+    },
+    {
+        "duration": 2.8,
+        "start": 596.32,
+        "text": "distribution is a lot better than"
+    },
+    {
+        "duration": 3.36,
+        "start": 597.68,
+        "text": "Amazon. You never know what you're going"
+    },
+    {
+        "duration": 4.08,
+        "start": 599.12,
+        "text": "to get on Amazon. There was one time for"
+    },
+    {
+        "duration": 3.44,
+        "start": 601.04,
+        "text": "my plasma torch I bought an electrode. I"
+    },
+    {
+        "duration": 2.48,
+        "start": 603.2,
+        "text": "thought I hacked the system. And I was"
+    },
+    {
+        "duration": 3.68,
+        "start": 604.48,
+        "text": "like, \"Dude, these things are like half"
+    },
+    {
+        "duration": 4.4,
+        "start": 605.68,
+        "text": "the price. I even got double the amount."
+    },
+    {
+        "duration": 3.679,
+        "start": 608.16,
+        "text": "I'm living like a king.\" And those"
+    },
+    {
+        "duration": 3.04,
+        "start": 610.08,
+        "text": "electrodes did great and they worn out"
+    },
+    {
+        "duration": 3.041,
+        "start": 611.839,
+        "text": "eventually. And I was like, \"Go buy"
+    },
+    {
+        "duration": 3.2,
+        "start": 613.12,
+        "text": "another pack. Ain't no big thing.\" The"
+    },
+    {
+        "duration": 2.8,
+        "start": 614.88,
+        "text": "first one I put in stripped the torch"
+    },
+    {
+        "duration": 3.199,
+        "start": 616.32,
+        "text": "and ended up ruing the whole head and I"
+    },
+    {
+        "duration": 3.44,
+        "start": 617.68,
+        "text": "had to buy a new head. And this happened"
+    },
+    {
+        "duration": 3.681,
+        "start": 619.519,
+        "text": "with different wires and different"
+    },
+    {
+        "duration": 3.92,
+        "start": 621.12,
+        "text": "collets and tungsten. Like I noticed the"
+    },
+    {
+        "duration": 4.48,
+        "start": 623.2,
+        "text": "difference in quality. Not to say it"
+    },
+    {
+        "duration": 4.64,
+        "start": 625.04,
+        "text": "won't work for you. Just a little air to"
+    },
+    {
+        "duration": 3.76,
+        "start": 627.68,
+        "text": "the what they say word to the air to"
+    },
+    {
+        "duration": 4.48,
+        "start": 629.68,
+        "text": "caution wind. Kind of listen to the wind"
+    },
+    {
+        "duration": 4.88,
+        "start": 631.44,
+        "text": "or Amazon's okay. You just got to be"
+    },
+    {
+        "duration": 3.919,
+        "start": 634.16,
+        "text": "careful. Now, I can't exactly tell you"
+    },
+    {
+        "duration": 3.36,
+        "start": 636.32,
+        "text": "what you need and all that information"
+    },
+    {
+        "duration": 3.361,
+        "start": 638.079,
+        "text": "is a bit daunting and you might be kind"
+    },
+    {
+        "duration": 3.279,
+        "start": 639.68,
+        "text": "of intimidated by the amount of money"
+    },
+    {
+        "duration": 3.04,
+        "start": 641.44,
+        "text": "you might have to spend on this whole"
+    },
+    {
+        "duration": 3.521,
+        "start": 642.959,
+        "text": "welding thing, but it just depends on"
+    },
+    {
+        "duration": 3.599,
+        "start": 644.48,
+        "text": "how serious you are. If you're just"
+    },
+    {
+        "duration": 3.28,
+        "start": 646.48,
+        "text": "welding here and there from time to"
+    },
+    {
+        "duration": 3.041,
+        "start": 648.079,
+        "text": "time, then no, you don't need to spend a"
+    },
+    {
+        "duration": 3.04,
+        "start": 649.76,
+        "text": "whole lot of money and it can be pretty"
+    },
+    {
+        "duration": 3.279,
+        "start": 651.12,
+        "text": "affordable. But if you're really serious"
+    },
+    {
+        "duration": 4.08,
+        "start": 652.8,
+        "text": "about it and you want to be like level"
+    },
+    {
+        "duration": 4.721,
+        "start": 654.399,
+        "text": "10 dedication, this isn't just a hobby,"
+    },
+    {
+        "duration": 4.16,
+        "start": 656.88,
+        "text": "this is a lifestyle, baby, then"
+    },
+    {
+        "duration": 3.92,
+        "start": 659.12,
+        "text": "honestly, the risk is going to be always"
+    },
+    {
+        "duration": 3.28,
+        "start": 661.04,
+        "text": "worth the reward. Bet on yourself. I'm"
+    },
+    {
+        "duration": 3.12,
+        "start": 663.04,
+        "text": "telling you, you can do incredible"
+    },
+    {
+        "duration": 3.44,
+        "start": 664.32,
+        "text": "things. You can spend just a couple"
+    },
+    {
+        "duration": 3.2,
+        "start": 666.16,
+        "text": "thousand bucks and get yourself a"
+    },
+    {
+        "duration": 3.84,
+        "start": 667.76,
+        "text": "machine and some consumables and ready"
+    },
+    {
+        "duration": 3.68,
+        "start": 669.36,
+        "text": "to rock and roll on some metal and watch"
+    },
+    {
+        "duration": 5.72,
+        "start": 671.6,
+        "text": "a little bit of YouTube. And that's a"
+    },
+    {
+        "duration": 4.28,
+        "start": 673.04,
+        "text": "whole lot cheaper than welding school."
+    }
+]
